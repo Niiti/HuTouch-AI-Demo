@@ -12,12 +12,14 @@ dependencies:
     
 
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
   cached_network_image: ^3.2.0
   image_picker: ^0.8.4+4
+  carousel_slider: ^4.0.0
 
 flutter:
   uses-material-design: true
@@ -26,7 +28,15 @@ flutter:
     - assets/app_icon.png
     - assets/images/image1.png
     - assets/images/premium_background.png
+    - assets/images/avatar_placeholder.png
     - assets/images/image.png
     - assets/images/playandwin.png
 
+  fonts:
+    - family: Proxima Nova
+      fonts:
+        - asset: fonts/ProximaNova-Bold.ttf
+    - family: Space Grotesk
+      fonts:
+        - asset: fonts/SpaceGrotesk-Bold.ttf
 

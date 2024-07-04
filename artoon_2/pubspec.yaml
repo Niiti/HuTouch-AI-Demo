@@ -1,0 +1,42 @@
+name: artoon_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.4+8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/flags/english.png
+    - assets/flags/arabic.png
+    - assets/flags/spanish.png
+    - assets/flags/french.png
+    - assets/flags/german.png
+    - assets/flags/portugal.png
+    - assets/flags/korean.png
+    - assets/flags/hindi.png
+# ----------------------------------
+    - assets/images/trending_avatar_1.jpg
+    - assets/images/trending_avatar_2.jpg
+    - assets/images/banner.jpg
+    - assets/images/grid_avatar_1.jpg
+    - assets/images/grid_avatar_2.jpg
+    - assets/images/grid_avatar_3.jpg
+    - assets/images/grid_avatar_4.jpg
+    - assets/images/image.png
+    - assets/images/playnwin.png
+
+
+
