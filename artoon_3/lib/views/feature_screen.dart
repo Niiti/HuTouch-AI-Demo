@@ -11,6 +11,7 @@ class FeatureScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         title: Text('Which features do you like the most?'),
       ),
       body: Consumer<FeatureViewModel>(
@@ -42,8 +43,7 @@ class FeatureScreen extends StatelessWidget {
                     viewModel.proceedToNext(context);
                   },
                   child: Text(Strings.nextButton,
-                  
-                      style: TextStyle(color: Colors.white)),
+                  style: TextStyle(color: Colors.white)),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: AppColors.selectedBorder,
                     shape: RoundedRectangleBorder(
@@ -52,14 +52,13 @@ class FeatureScreen extends StatelessWidget {
                     ),
                   ),
                 ),
-              ),),
+              ),
+              ),
                           AdPlaceholder(),
-
             ],
           );
         },
       ),
-
     );
   }
 }

@@ -5,7 +5,7 @@ class AdPlaceholder extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 217,
+      height: 190,
       color: Colors.grey[300],
       child: Center(
         child: Column(

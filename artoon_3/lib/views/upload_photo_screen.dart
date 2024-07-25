@@ -1,114 +1,135 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../view_models/upload_photo_view_model.dart';
-import '../resources/colors.dart';
-import '../resources/strings.dart'; // Import the library that defines 'uploadTitle'
-import '../widgets/common_button.dart';
 import '../widgets/photo_card.dart';
+import '../widgets/common_button.dart';
+import 'package:flutter/services.dart'; // For asset image
+import 'dart:io'; // For FileImage
+import '../views/gender_selection_screen.dart>';
+import 'package:image_picker/image_picker.dart';
 
 class UploadPhotoScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (_) => UploadPhotoViewModel(),
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Colors.transparent,
-          elevation: 0,
-          title: Text(
-            Strings.uploadTitle, // Use the correct name for the getter
-            style: TextStyle(
-              color: AppColors.titleColor,
-              fontWeight: FontWeight.bold,
-              fontSize: 18,
+    final viewModel = Provider.of<UploadPhotoViewModel>(context);
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Upload photos of yourself'),
+        actions: [
+          TextButton(
+            onPressed: () {
+              // Handle skip action
+            },
+            child: Text(
+              'Skip',
+              style: TextStyle(
+                color: Colors.blue,
+                fontSize: 17,
+                fontWeight: FontWeight.bold,
+              ),
             ),
           ),
-          actions: [
-            TextButton(
-              onPressed: () =>
-                  context.read<UploadPhotoViewModel>().skip(context),
-              child: Text(
-                Strings.skipText,
-                style: TextStyle(
-                    color: AppColors.skipColor,
-                    fontSize: 12,
-                    fontWeight: FontWeight.bold),
+        ],
+      ),
+      body: Padding(
+        padding: EdgeInsets.symmetric(horizontal: 16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              '5 - 6 close-up portraits where only you are seen.',
+              style: TextStyle(
+                fontSize: 17,
+                fontWeight: FontWeight.bold,
               ),
-            )
-          ],
-        ),
-        body: Padding(
-          padding: const EdgeInsets.all(20.0),
-          child: Column(
-            crossAxisAlignment:
-                CrossAxisAlignment.start, // Align text to start (left)
-            children: [
-              Text(
-                Strings.uploadSubtitle,
-                style: TextStyle(
-                  color: AppColors.subtitleColor,
-                  fontSize: 15,
+            ),
+            SizedBox(height: 24),
+            Center(
+              child: Stack(
+              alignment: Alignment.center,
+              children: [
+                ClipRRect(
+                borderRadius: BorderRadius.circular(16),
+                child: Container(
+                  width: double.infinity,
+                  height: 180,
+                  // color: Colors.grey[200], // Placeholder color
+                  child: Image.asset(
+                  'assets/images/image1.png', // Path to static image placeholder
+                  fit: BoxFit.cover,
+                  ),
                 ),
+                ),
+                // IconButton(
+                // icon:
+                //   Icon(Icons.add_a_photo, size: 40, color: Colors.white),
+                // onPressed: () => viewModel.pickImage(ImageSource.camera),
+                // ),
+              ],
               ),
-              SizedBox(height: 20),
-              Row(
-                mainAxisAlignment:
-                    MainAxisAlignment.center, // Center-align the photo cards
-                children: [
-                  PhotoCard(
-                    photoUrl: 'https://picsum.photos/200/300?grayscale',
-                    onTap: () => context
-                        .read<UploadPhotoViewModel>()
-                        .photoTapped(context, 'https://picsum.photos/200/300?grayscale'),
-                  ),
-                  SizedBox(width: 10), // Add spacing between photo cards
-                  PhotoCard(
-                    photoUrl: 'https://picsum.photos/200/300?grayscale',
-                    onTap: () => context
-                        .read<UploadPhotoViewModel>()
-                        .photoTapped(context, 'https://picsum.photos/200/300?grayscale'),
-                    isDemo: true,
-                  ),
-                ],
+            ),
+            SizedBox(height: 24),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                ElevatedButton.icon(
+                  onPressed: () => viewModel.pickImage(ImageSource.gallery),
+                  icon: Icon(Icons.photo_library),
+                  label: Text('Gallery'),
+                ),
+                ElevatedButton.icon(
+                  onPressed: () => viewModel.pickImage(ImageSource.camera),
+                  icon: Icon(Icons.camera_alt),
+                  label: Text('Camera'),
+                ),
+              ],
+            ),
+            SizedBox(height: 24),
+            Text(
+              'Selected images',
+              style: TextStyle(
+                fontSize: 17,
+                fontWeight: FontWeight.bold,
               ),
-              SizedBox(height: 20),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  ElevatedButton(
-                    onPressed: () => context
-                        .read<UploadPhotoViewModel>()
-                        .openGallery(context),
-                    child: Column(
-                      children: [
-                        Icon(Icons.photo),
-                        Text(Strings.galleryText),
-                      ],
-                    ),
-                  ),
-                  ElevatedButton(
-                    onPressed: () => context
-                        .read<UploadPhotoViewModel>()
-                        .openCamera(context),
-                    child: Column(
-                      children: [
-                        Icon(Icons.camera_alt),
-                        Text(Strings.cameraText),
-                      ],
-                    ),
-                  ),
-                ],
+            ),
+            SizedBox(height: 8),
+            Consumer<UploadPhotoViewModel>(
+              builder: (context, viewModel, child) {
+                return Wrap(
+                  spacing: 8.0,
+                  runSpacing: 8.0,
+                  children: viewModel.photos
+                      .map(
+                        (photo) => PhotoCard(
+                          image: photo.image,
+                          onDelete: () => viewModel.removePhoto(photo.id),
+                        ),
+                      )
+                      .toList(),
+                );
+              },
+            ),
+            SizedBox(height: 8),
+            Text(
+              '${viewModel.photos.length}/6',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
               ),
-              SizedBox(
-                  height:
-                      40), // Add extra space between buttons and create button
-              CommonButton(
-                text: Strings.createText,
-                onPressed: () =>
-                    context.read<UploadPhotoViewModel>().uploadPhoto(context),
-              ),
-            ],
-          ),
+            ),
+            SizedBox(height: 100),
+            CommonButton(
+              text: 'Create',
+                onPressed: () {
+                // Handle create action
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => GenderSelectionScreen()),
+                );
+                },
+            ),
+          ],
         ),
       ),
     );

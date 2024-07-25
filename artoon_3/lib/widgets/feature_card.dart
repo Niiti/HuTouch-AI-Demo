@@ -23,11 +23,6 @@ class FeatureCard extends StatelessWidget {
       ),
       color: feature.isSelected ? AppColors.selectedBackground : Colors.white,
       child: ListTile(
-        leading: Image.asset(
-          feature.icon,
-          width: 30,
-          height: 30,
-        ),
         title: Text(
           feature.title,
           style: TextStyle(
@@ -36,9 +31,14 @@ class FeatureCard extends StatelessWidget {
           ),
         ),
         subtitle: Text(feature.description),
+        trailing: Image.asset(
+          feature.icon,
+          width: 30,
+          height: 30,
+        ),
         onTap: onTap,
       ),
-      elevation: 4,
+      elevation: 2,
     );
   }
 }

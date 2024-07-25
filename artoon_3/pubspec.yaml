@@ -7,8 +7,10 @@ environment:
   sdk: '>=3.4.4 <4.0.0'
 
 dependencies:
+  camera: ^0.11.0+1
   flutter:
     sdk: flutter
+  image_picker: ^1.1.2
   provider: ^6.1.2
 
 dev_dependencies:
@@ -36,3 +38,4 @@ flutter:
     - assets/images/autumn_3d.png
     - assets/images/image.png
     - assets/images/banner.png
+    - assets/images/image1.png

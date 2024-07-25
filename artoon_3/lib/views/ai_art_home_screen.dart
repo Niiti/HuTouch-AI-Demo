@@ -13,7 +13,7 @@ class AiArtHomeScreen extends StatelessWidget {
     final viewModel = Provider.of<AiArtHomeViewModel>(context);
 
     return Scaffold(
-      appBar: AppBar(leading: null, title: Text(Strings.aiArt)),
+      appBar: AppBar(automaticallyImplyLeading: false, title: Text(Strings.aiArt)),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Column(

@@ -1,33 +1,35 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
-import '../views/gender_selection_screen.dart';
+import '../models/photo_model.dart';
+import 'package:image_picker/image_picker.dart';
 
 class UploadPhotoViewModel extends ChangeNotifier {
-  void uploadPhoto(BuildContext context) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(builder: (context) => GenderSelectionScreen()),
-    );
+  List<PhotoModel> _photos = [];
+
+  List<PhotoModel> get photos => _photos;
+
+  void addPhoto(PhotoModel photo) {
+    _photos.add(photo);
+    notifyListeners();
   }
 
-  void skip(BuildContext context) {
-    Navigator.pop(context);
+  void removePhoto(String id) {
+    _photos.removeWhere((photo) => photo.id == id);
+    notifyListeners();
   }
 
-  void openGallery(BuildContext context) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Open gallery button pressed')),
-    );
-  }
+  Future<void> pickImage(ImageSource source) async {
+    final picker = ImagePicker();
+    final pickedFile = await picker.pickImage(source: source);
 
-  void openCamera(BuildContext context) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Open camera button pressed')),
-    );
-  }
-
-  void photoTapped(BuildContext context, String photoUrl) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Photo tapped: $photoUrl')),
-    );
+    if (pickedFile != null) {
+      addPhoto(
+        PhotoModel(
+          id: DateTime.now().toString(),
+          image: FileImage(File(pickedFile.path)),
+        ),
+      );
+    }
   }
 }
