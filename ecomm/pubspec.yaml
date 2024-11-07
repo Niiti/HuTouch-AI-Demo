@@ -1,0 +1,34 @@
+name: ecomm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  carousel_slider: ^5.0.0
+  connectivity: ^3.0.6
+  dartz: ^0.10.1
+  dio: ^5.7.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  get_it: ^8.0.2
+  http: ^1.2.2
+  injectable: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.1.11
+  injectable_generator: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/

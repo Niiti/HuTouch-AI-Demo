@@ -1,0 +1,21 @@
+# ecomm
+
+A new Flutter project.
+
+# figma url
+https://www.figma.com/design/94mXJw3dvtjhROaoFXRKzI/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community)?node-id=1-16990&node-type=canvas&t=esqma0nE1TE5nmG1-0
+
+# coding style used
+"{
+    "architecture_used": "The code reflects an architectural pattern similar to MVVM (Model-View-ViewModel) using GetX for state management. The architecture promotes a clear separation of concerns: data models are defined in the 'model' directory, 'GetxController' is used for managing state and business logic in the 'controller' directory, and UI components are located in the 'view' directory. Thus, the Model layer is responsible for data, View layer for UI, and Controller layer for business logic. For instance, the 'EventController' class manages events by interacting with the data layer and updating the UI\u30104:1\u2020source\u3011.",
+    "state_management": "The project utilizes the GetX package for state management. GetX controllers like 'EventController' manage the state using 'Rx' types and 'obx' widgets to reactively update the UI in response to state changes. Observables like 'selectedDay' and 'remindMe' are used to trigger UI updates in response to changes\u30104:1\u2020source\u3011\u30104:3\u2020source\u3011.",
+    "code_structure": "The codebase is modular, with a clear directory structure: 'model' for data models, 'controller' for business logic controllers, 'view' for UI components, and 'service' for auxiliary services like notifications. Object-oriented principles are evident, with data classes for encapsulation and controllers handling business logic. For example, 'event_model.dart' defines the Event class, illustrating encapsulation with getters and setters\u30104:16\u2020source\u3011.",
+    "app_constants": "Constants such as colors and theme settings are managed using dedicated utility files like 'colors.dart'. This provides a consistent reference for styling across the application. Constants for string messages or paths are not explicitly shown, indicating possible areas for further refactoring\u30104:9\u2020source\u3011\u30104:12\u2020source\u3011.",
+    "adaptive_responsive_design": "Responsive design is implemented using Flutter's layout widgets and media query methods. For instance, the use of Flexible and Expanded widgets as well as SizedBox with flexible dimensions ensures adaptation to different screen sizes. This aids the application's compatibility with various devices\u30104:3\u2020source\u3011\u30104:18\u2020source\u3011.",
+    "error_handling": "Error handling in the project is minimal but is present in network service methods such as 'QuoteService'. Here, exceptions during network requests are caught with 'try-catch', and generic error messages are returned in case of failure\u30104:14\u2020source\u3011.",
+    "libraries_frameworks": "Key libraries used include GetX for state management and routing, Hive for local storage, HTTP for network requests, and Flutter Local Notifications for notifications. These libraries are integrated into the project through pubspec.yaml, and they enhance functionality such as state management, persistent data handling, and asynchronous operations\u30104:0\u2020source\u3011\u30104:1\u2020source\u3011\u30104:19\u2020source\u3011.",
+    "overall_coding_habits": "The user's coding habits reflect a practical use of Flutter's ecosystem with an emphasis on reactivity and modular code. Observables from GetX are used effectively for real-time updates, and the use of Hive for local storage demonstrates a preference for lightweight database solutions. Commenting is sparse, which may affect readability, but the code itself is structured and readable, adhering to object-oriented principles."
+}"
+
+# api collection link
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/16676630-efd18684-a653-462d-aa89-e1aedfc6a740?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D16676630-efd18684-a653-462d-aa89-e1aedfc6a740%26entityType%3Dcollection%26workspaceId%3Deb33828e-e81b-4515-a708-e65f05ed515b)
