@@ -16,7 +16,7 @@ The total time taken to generate the code was **84 minutes (1.4 hours)**. Below 
 
 ## Test Coverage
 
-As part of the upskilling initiative, the project achieved **70% pass rate** for unit test cases covering UI, functionality, and coding standards without the need for manual coding. Detailed test results can be found in the [RideShare.xlsx](/RideShare.xlsx) file.
+As part of the upskilling initiative, the project achieved **82% pass rate** for unit test cases covering UI, functionality, and coding standards without the need for manual coding. Detailed test results can be found in the [RideShare.xlsx](/RideShare.xlsx) file.
 
 ## Screenshots
 
