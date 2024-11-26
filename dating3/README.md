@@ -35,5 +35,14 @@ The project achieved **78% pass rate** for unit test cases covering UI, function
 
 This document provides detailed instructions and is part of the upskilling initiative from HuTouch.: [Upskill.txt](upskill.txt)
 
+## Video Recording
+
+To view the video recording of the application, use the player below:
+
+<video width="100%" height="auto" controls muted>
+    <source src="recording.MOV" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 ---
