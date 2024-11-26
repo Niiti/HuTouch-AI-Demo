@@ -39,8 +39,6 @@ This document provides detailed instructions and is part of the upskilling initi
 
 To view the video recording of the application, use the player below:
 
-[View Video](https://1drv.ms/v/s!AslYr21agSvAhftVWiV5NMWO_j6-4g?embed=1)
-
-
+[View Video](https://1drv.ms/v/s!AsIYr21agSvAhftVZ4cLuNsAXbuVVg?e=dZ4oAo)
 
 ---
