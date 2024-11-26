@@ -37,12 +37,8 @@ This document provides detailed instructions and is part of the upskilling initi
 
 ## Video Recording
 
-To view the video recording of the application, use the player below:
+To view the video recording of the application, click the link below:
 
-<video width="100%" height="auto" controls muted>
-    <source src="recording.MOV" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+[View the video recording](recording.MOV)
 
 ---
