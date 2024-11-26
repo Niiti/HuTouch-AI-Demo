@@ -1,6 +1,6 @@
 # Messaging Screen
-
- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma UI Used" style="width: 128px; height: 32px;">](https://www.figma.com/design/yjNhvE2oSHHGbhRfWZcKhn/new-design-file?node-id=1457-1167&t=HnQlFFu1s7bHol6c-1)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/yjNhvE2oSHHGbhRfWZcKhn/new-design-file?node-id=1457-1167&embed-host=share" allowfullscreen></iframe>
+ <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma UI Used" style="width: 128px; height: 32px;">](https://www.figma.com/design/yjNhvE2oSHHGbhRfWZcKhn/new-design-file?node-id=1457-1167&t=HnQlFFu1s7bHol6c-1) -->
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/16676630-7386e255-076c-43f1-b63f-2816dcb4b0b4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D16676630-7386e255-076c-43f1-b63f-2816dcb4b0b4%26entityType%3Dcollection%26workspaceId%3Deb33828e-e81b-4515-a708-e65f05ed515b)
 
