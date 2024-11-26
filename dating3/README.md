@@ -38,11 +38,10 @@ This document provides detailed instructions and is part of the upskilling initi
 ## Video Recording
 
 To view the video recording of the application, use the player below:
-[Download Video](recording.mp4) | [Play in New Tab](https://1drv.ms/v/s!AsIYr21agSvAhftVZ4cLuNsAXbuVVg?e=cZxeRO)
+[Play in New Tab](https://1drv.ms/v/s!AsIYr21agSvAhftVZ4cLuNsAXbuVVg?e=cZxeRO)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://1drv.ms/v/s!AsIYr21agSvAhftVWiV5NMWO_j6-4g?embed=1" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
-</div>
+[View Video](https://1drv.ms/v/s!AslYr21agSvAhftVWiV5NMWO_j6-4g?embed=1)
+
 
 
 ---
