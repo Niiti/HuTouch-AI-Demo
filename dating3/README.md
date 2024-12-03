@@ -37,15 +37,3 @@ This document provides detailed instructions and is part of the upskilling initi
 
 ## Video Recording
 To view the video recording of the application, please use the video player below:
-
-<!-- <video width="600" controls>
-    <source src="recording.mp4" type="video/mp4">
-    <source src="recording.webm" type="video/webm">
-    <source src="recording.ogv" type="video/ogg">
-    Your browser does not support the video tag.
-</video> -->
-
-[Download Video](recording.mp4) | [Play in New Tab](https://1drv.ms/v/s!AsIYr21agSvAhftVZ4cLuNsAXbuVVg?e=cZxeRO)
-
-<iframe src="https://1drv.ms/v/s!AsIYr21agSvAhftVWiV5NMWO_j6-4g?embed=1" width="100%" height="auto" frameborder="1" scrolling="no" allowfullscreen></iframe>
----
