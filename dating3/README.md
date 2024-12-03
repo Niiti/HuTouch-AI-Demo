@@ -36,9 +36,4 @@ The project achieved **78% pass rate** for unit test cases covering UI, function
 This document provides detailed instructions and is part of the upskilling initiative from HuTouch.: [Upskill.txt](upskill.txt)
 
 ## Video Recording
-
-To view the video recording of the application, use the player below:
-
-[View Video](https://1drv.ms/v/s!AsIYr21agSvAhftVZ4cLuNsAXbuVVg?e=dZ4oAo)
-
----
+To view the video recording of the application, please use the video player below:
