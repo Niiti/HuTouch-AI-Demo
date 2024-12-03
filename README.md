@@ -32,11 +32,12 @@ This repository is organized into several projects, each showcasing different fe
 
 | Project Name           | Description                     |
 |------------------------|---------------------------------|
-| [Friendzy App](dating3) | Description of Friendzy App      |
-| [Wyntra App](ecomm)     | Description of Wyntra App        |
-| [Ecommerce App](recipely)| Description of Ecommerce App    |
-| [Reciepy App](wyntra)   | Description of Reciepy App       |
+| [Reciepy App](recipely)   | Description of Reciepy App       |
 | [Youtube Clone App](youtube)| Description of YouTube Clone App |
+| [Friendzy App](dating3) | Description of Friendzy App      |
+| [Wyntra App](wyntra)     | Description of Wyntra App        |
+| [Ecommerce App](ecomm)| Description of Ecommerce App    |
+
 
 ## 👥 Contributors
 
