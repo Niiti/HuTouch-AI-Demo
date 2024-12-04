@@ -39,9 +39,4 @@ This repository is organized into several projects, each showcasing different fe
 | [Ecommerce App](ecomm)| Description of Ecommerce App    |
 
 
-## 👥 Contributors
-
-- [@kshitij-gavhane](https://github.com/kshitij-gavhane)
-- [@Dhanashree Pande](https://github.com/contributor2)
-- [@Rohan Patil](https://github.com/contributor3)
 ---
