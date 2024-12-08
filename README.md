@@ -37,6 +37,6 @@ This repository is organized into several projects, each showcasing different fe
 | [Friendzy App](dating3) | Description of Friendzy App      |
 | [Wyntra App](wyntra)     | Description of Wyntra App        |
 | [Ecommerce App](ecomm)| Description of Ecommerce App    |
-
+| [Sports App](sportify)| Description of Sports App    |
 
 ---
