@@ -38,10 +38,6 @@ _Screenshots of the application's output will be added here._
         <img src="assets/order.jpg" alt="Profile Screen" width="200"/>
     </div>
     <div>
-        <b>Notification Screen</b>
-        <img src="assets/notifications.jpg" alt="Profile Screen" width="200"/>
-    </div>
-    <div>
         <b>Tracking Screen</b>
         <img src="assets/tracking.jpg" alt="Profile Screen" width="200"/>
     </div>
