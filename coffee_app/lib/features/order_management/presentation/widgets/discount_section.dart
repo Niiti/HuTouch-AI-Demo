@@ -13,7 +13,7 @@ class DiscountSection extends StatelessWidget {
       child: Container(
         padding: EdgeInsets.all(16),
         decoration: BoxDecoration(
-          color: AppConstants.greyColor.withOpacity(0.3),
+          color: Colors.white,
           borderRadius: BorderRadius.circular(AppConstants.borderRadius),
         ),
         child: Row(

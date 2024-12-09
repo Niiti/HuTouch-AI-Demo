@@ -38,6 +38,7 @@ class DeliveryStatusPage extends StatelessWidget {
         logger: logger,
       )..add(FetchDeliveryStatusEvent()),
       child: Scaffold(
+        backgroundColor: Color(0xFFF9F9F9),
         body: SafeArea(
           child: BlocBuilder<DeliveryBloc, DeliveryState>(
             builder: (context, state) {

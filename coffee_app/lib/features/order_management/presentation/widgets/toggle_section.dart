@@ -43,7 +43,7 @@ class ToggleSection extends StatelessWidget {
             child: Container(
               height: 50,
               decoration: BoxDecoration(
-                color: !isDeliver ? AppConstants.primaryColor : AppConstants.greyColor,
+                color: !isDeliver ? AppConstants.primaryColor : Color(0xFFEDEDED),
                 borderRadius: BorderRadius.only(
                   topRight: Radius.circular(AppConstants.borderRadius),
                   bottomRight: Radius.circular(AppConstants.borderRadius),

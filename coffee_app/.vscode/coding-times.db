@@ -8,6 +8,7 @@
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\data\\datasources\\product_remote_service.dart","last_edit":1733552038767,"total_time":11951,"is_writing":0,"_id":"5UAW9HFoZ95SqLcY"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\data\\datasources\\coffee_shop_remote_data_source.dart","last_edit":1733487105060,"total_time":1278892,"is_writing":0,"_id":"6RakcwQn3M7UY6Wu"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\constants\\app_constants.dart","last_edit":1733554517966,"total_time":60213,"is_writing":0,"_id":"7tofIDS925c8wfgn"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart.git","last_edit":1733644856987,"total_time":8,"is_writing":0,"_id":"7z0GKpnIF39ocpP0"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\main.dart","last_edit":1733541263775,"total_time":1003489,"is_writing":0,"_id":"8GaaSBrnx8JXClQJ"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_method_section.dart","last_edit":1733555082378,"total_time":7842,"is_writing":0,"_id":"9NqWgZRa6uiMzw4e"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\bloc\\delivery_bloc.dart","last_edit":1733567993430,"total_time":59304,"is_writing":0,"_id":"9Qcw0Tg67SXGhv0r"}
@@ -59,7 +60,8 @@
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\data\\repositories\\product_repository_impl.dart","last_edit":1733552058130,"total_time":13693,"is_writing":0,"_id":"kJGwPnU24GVzNXpB"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\data\\repositories\\coffee_shop_repository_impl.dart","last_edit":1733487104673,"total_time":1278669,"is_writing":0,"_id":"nTPRaiIXh1ZyH2WV"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\constants\\api_paths.dart","last_edit":1733564484800,"total_time":937,"is_writing":0,"_id":"o2gnkEW3UWhIBetJ"}
-{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733560468155,"total_time":177,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733643205839,"total_time":1324,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"git\\scm0\\input","last_edit":1733644865192,"total_time":52,"is_writing":0,"_id":"qFXDWa3FrQoc27wf"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\utils\\application_logger.dart","last_edit":1733567411507,"total_time":15481,"is_writing":0,"_id":"qwxVHy09A40yLiTF"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\widgets\\header_widget.dart","last_edit":1733569725547,"total_time":33676,"is_writing":0,"_id":"vhrII5DSpJymfsKI"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\data\\datasources\\order_remote_data_source.dart","last_edit":1733558264055,"total_time":16607,"is_writing":0,"_id":"wkFPaqkS3UJSo8dA"}
@@ -68,9 +70,43 @@
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\data\\repositories\\coffee_repository_impl.dart","last_edit":1733543411940,"total_time":65991,"is_writing":0,"_id":"yaHDq2zBxlP0TeJh"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\domain\\usecases\\get_featured_products.dart","last_edit":1733487105053,"total_time":1278778,"is_writing":0,"_id":"yl8IDePOFu0omNmP"}
 {"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\presentation\\widgets\\product_header_widget.dart","last_edit":1733553470680,"total_time":28160,"is_writing":0,"_id":"yr0HzOVCU9MyTMxI"}
-{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642741726,"total_time":873,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
-{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642773519,"total_time":1216,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
-{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642997687,"total_time":1318,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
-{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733643205839,"total_time":1324,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
-{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart.git","last_edit":1733644856987,"total_time":8,"is_writing":0,"_id":"7z0GKpnIF39ocpP0"}
-{"file_path":"git\\scm0\\input","last_edit":1733644865192,"total_time":52,"is_writing":0,"_id":"qFXDWa3FrQoc27wf"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\delivery_address_section.dart","last_edit":1733731473764,"total_time":17446,"is_writing":0,"_id":"bfNEcivqG9vmTj6U"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\delivery_address_section.dart","last_edit":1733731484265,"total_time":18308,"is_writing":0,"_id":"bfNEcivqG9vmTj6U"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\delivery_address_section.dart","last_edit":1733731528937,"total_time":19358,"is_writing":0,"_id":"bfNEcivqG9vmTj6U"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_summary_section.dart","last_edit":1733731549343,"total_time":35907,"is_writing":0,"_id":"HkitbgQOzjgJi44b"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_summary_section.dart","last_edit":1733731563887,"total_time":41346,"is_writing":0,"_id":"HkitbgQOzjgJi44b"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_summary_section.dart","last_edit":1733731569576,"total_time":41957,"is_writing":0,"_id":"HkitbgQOzjgJi44b"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\discount_section.dart","last_edit":1733733852737,"total_time":5406020,"is_writing":0,"_id":"LXeUrYAhpc8xioRB"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733735610669,"total_time":109985,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733735645305,"total_time":121173,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733735741016,"total_time":156436,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733735821375,"total_time":157055,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733735830710,"total_time":158040,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733736133070,"total_time":9380,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733736155882,"total_time":18719,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733736163751,"total_time":21567,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733736182603,"total_time":31826,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733736246911,"total_time":36837,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart","last_edit":1733737164598,"total_time":80790,"is_writing":0,"_id":"cbuRBz3bqgeQDAsX"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart","last_edit":1733737175451,"total_time":81806,"is_writing":0,"_id":"cbuRBz3bqgeQDAsX"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743165831,"total_time":8,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743178531,"total_time":21,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743197590,"total_time":33,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743207093,"total_time":1022,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743220320,"total_time":3851,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743226380,"total_time":4366,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743235698,"total_time":4695,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743245835,"total_time":4706,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743255196,"total_time":8688,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743267383,"total_time":13977,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743273154,"total_time":14175,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743279197,"total_time":14190,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743374554,"total_time":14195,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743384303,"total_time":14212,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743505493,"total_time":28305,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743528543,"total_time":39640,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743542965,"total_time":44367,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743558607,"total_time":52381,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743573504,"total_time":58017,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743588344,"total_time":59109,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\README.md","last_edit":1733743595310,"total_time":59131,"is_writing":0,"_id":"aDIZgtjArwT7nCsG"}
