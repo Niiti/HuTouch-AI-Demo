@@ -40,5 +40,6 @@ This repository is organized into several projects, each showcasing different fe
 | [Sports App](sportify)| Description of Sports App    |
 | [Coffee App](coffee_app)| Description of Coffee App    |
 | [Wafii App](WafiiApp)| Description of Wafii App    |
+| [Coffee App Bloc](coffee_app_bloc)| Description of Coffee App using bloc   |
 
 ---
