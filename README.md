@@ -38,5 +38,6 @@ This repository is organized into several projects, each showcasing different fe
 | [Wyntra App](wyntra)     | Description of Wyntra App        |
 | [Ecommerce App](ecomm)| Description of Ecommerce App    |
 | [Sports App](sportify)| Description of Sports App    |
+| [Coffee App](coffee_app)| Description of Coffee App    |
 
 ---

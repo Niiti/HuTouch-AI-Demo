@@ -1,0 +1,76 @@
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\promo_banner.dart","last_edit":1733487105067,"total_time":1278871,"is_writing":0,"_id":"1JBt4IasxawG9rka"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\configs\\app_router.dart","last_edit":1733487504323,"total_time":14072,"is_writing":0,"_id":"1rkJkhrMuS408clb"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\bloc\\coffee_shop_event.dart","last_edit":1733486314034,"total_time":2725,"is_writing":0,"_id":"2JJMXEDOvSDEWtEJ"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\presentation\\bloc\\product_bloc.dart","last_edit":1733552588326,"total_time":37237,"is_writing":0,"_id":"4O9htx7iDcWbnv0g"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\domain\\usecases\\get_delivery_status.dart","last_edit":1733567236516,"total_time":16895,"is_writing":0,"_id":"4em7a5UHU1i1IvVV"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\configs\\env_config.dart","last_edit":1733552079275,"total_time":3671,"is_writing":0,"_id":"54CgQydAUzzJBavj"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\toggle_section.dart","last_edit":1733555133632,"total_time":1368,"is_writing":0,"_id":"5G1HmACK4YBB0PHH"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\data\\datasources\\product_remote_service.dart","last_edit":1733552038767,"total_time":11951,"is_writing":0,"_id":"5UAW9HFoZ95SqLcY"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\data\\datasources\\coffee_shop_remote_data_source.dart","last_edit":1733487105060,"total_time":1278892,"is_writing":0,"_id":"6RakcwQn3M7UY6Wu"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\constants\\app_constants.dart","last_edit":1733554517966,"total_time":60213,"is_writing":0,"_id":"7tofIDS925c8wfgn"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\main.dart","last_edit":1733541263775,"total_time":1003489,"is_writing":0,"_id":"8GaaSBrnx8JXClQJ"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_method_section.dart","last_edit":1733555082378,"total_time":7842,"is_writing":0,"_id":"9NqWgZRa6uiMzw4e"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\bloc\\delivery_bloc.dart","last_edit":1733567993430,"total_time":59304,"is_writing":0,"_id":"9Qcw0Tg67SXGhv0r"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\domain\\repositories\\product_repository.dart","last_edit":1733552727729,"total_time":864405,"is_writing":0,"_id":"9jup6kloMNMZh5Cl"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\failures.dart","last_edit":1733554696728,"total_time":26191,"is_writing":0,"_id":"AIGBJaOpdHbpBZcO"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\data\\repositories\\delivery_repository_impl.dart","last_edit":1733567449084,"total_time":318801,"is_writing":0,"_id":"AeKeO63typbvcUAe"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\footer.dart","last_edit":1733487105138,"total_time":3919,"is_writing":0,"_id":"DNo9dut8FLzKv0NV"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\bloc\\order_bloc.dart","last_edit":1733557187061,"total_time":104974,"is_writing":0,"_id":"E1pnmCfIKutdvaVt"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\domain\\repositories\\delivery_repository.dart","last_edit":1733567211273,"total_time":2900593,"is_writing":0,"_id":"FiyExcxpbHZwG5fi"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\domain\\entities\\product_entity.dart","last_edit":1733559559183,"total_time":3430,"is_writing":0,"_id":"GSjuHnhx8H1ZqmES"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\domain\\repositories\\order_repository.dart","last_edit":1733558196596,"total_time":1373,"is_writing":0,"_id":"H4r61CDl9neYtRWp"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\bloc\\coffee_shop_state.dart","last_edit":1733487105058,"total_time":1279157,"is_writing":0,"_id":"HJZ3qtSbr2UCn0Pw"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\payment_summary_section.dart","last_edit":1733555124777,"total_time":35020,"is_writing":0,"_id":"HkitbgQOzjgJi44b"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\generated_ui\\presentation\\pages\\generated_ui_page.dart","last_edit":1733544526077,"total_time":3418,"is_writing":0,"_id":"I6mfXBSS1Mqme40f"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\domain\\usecases\\fetch_product_detail.dart","last_edit":1733552745337,"total_time":14489,"is_writing":0,"_id":"IxhuovKksMIwvqFK"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\bloc\\coffee_shop_bloc.dart","last_edit":1733487466786,"total_time":352171,"is_writing":0,"_id":"JZEWGgib8uwguk8e"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\presentation\\bloc\\coffee_bloc.dart","last_edit":1733543465155,"total_time":2344077,"is_writing":0,"_id":"JeBV3pGmejwfR2ZD"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\pages\\order_page.dart","last_edit":1733568577589,"total_time":77032,"is_writing":0,"_id":"JtP183GPE5R8P5sG"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\item_order_section.dart","last_edit":1733560426554,"total_time":36655,"is_writing":0,"_id":"LBABgkmE8Rd6m0Tc"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\discount_section.dart","last_edit":1733555036427,"total_time":5392981,"is_writing":0,"_id":"LXeUrYAhpc8xioRB"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\data\\repositories\\order_repository_impl.dart","last_edit":1733558210916,"total_time":10904,"is_writing":0,"_id":"Mf8EwMKZKqdNTyb4"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\presentation\\pages\\product_detail_page.dart","last_edit":1733559889366,"total_time":35787,"is_writing":0,"_id":"O9TZTCMslkXQRNTp"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\bloc\\order_state.dart","last_edit":1733557977538,"total_time":1383,"is_writing":0,"_id":"PQYY6UensXK65bIn"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\presentation\\widgets\\purchase_button_widget.dart","last_edit":1733552650866,"total_time":1676,"is_writing":0,"_id":"PYqkvYWgSpRVfoQu"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\server_exception.dart","last_edit":1733566694621,"total_time":15255,"is_writing":0,"_id":"RL83nhhhWYdc5Fn0"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\utils\\logger.dart","last_edit":1733542972115,"total_time":1778,"is_writing":0,"_id":"Rs4C0idjuRSdnijS"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\category_tabs.dart","last_edit":1733487105071,"total_time":1278731,"is_writing":0,"_id":"SMQ0q8DjcZtSf0rS"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\exceptions.dart","last_edit":1733556887867,"total_time":37124,"is_writing":0,"_id":"UosiBppS8uqtoeqY"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\pubspec.yaml","last_edit":1733541495142,"total_time":29170,"is_writing":0,"_id":"WvnhXPe4UVxbMpDS"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\domain\\repositories\\coffee_repository.dart","last_edit":1733543434266,"total_time":2379335,"is_writing":0,"_id":"XdUkE0jAM5isW49X"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\error_handling.dart","last_edit":1733564741930,"total_time":115314,"is_writing":0,"_id":"ZAfSPW71mesNkcCR"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\pages\\coffee_shop_page.dart","last_edit":1733486515616,"total_time":575,"is_writing":0,"_id":"ZQiMd5c8sXzHW2AB"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\network\\network_info.dart","last_edit":1733542937207,"total_time":8873,"is_writing":0,"_id":"aBTnw2S9x2dN60Yb"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\app.dart","last_edit":1733545498448,"total_time":225432,"is_writing":0,"_id":"be7TYEmZsasQ0ZNq"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\delivery_address_section.dart","last_edit":1733555023840,"total_time":15243,"is_writing":0,"_id":"bfNEcivqG9vmTj6U"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\presentation\\pages\\coffee_page.dart","last_edit":1733549696023,"total_time":35203,"is_writing":0,"_id":"cOMhAYtnUjASqcRY"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart","last_edit":1733569791581,"total_time":79142,"is_writing":0,"_id":"cbuRBz3bqgeQDAsX"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\error_handler.dart","last_edit":1733566656812,"total_time":26331,"is_writing":0,"_id":"d5S8EFBEPnuegNPW"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\error\\global_error_handler.dart","last_edit":1733566766044,"total_time":96181,"is_writing":0,"_id":"dn4fZwmJ5vTofXJF"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\domain\\entities\\product.dart","last_edit":1733486248965,"total_time":363,"is_writing":0,"_id":"eDg8ivwL49lvtfc9"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\widgets\\header_section.dart","last_edit":1733555041493,"total_time":958,"is_writing":0,"_id":"fEFRPDR8Opy0QVDo"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\domain\\repositories\\coffee_shop_repository.dart","last_edit":1733487104880,"total_time":1278926,"is_writing":0,"_id":"fGGTtBfU1W3tQnVb"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\header.dart","last_edit":1733487105062,"total_time":1278733,"is_writing":0,"_id":"fw5VeLkbHGXJ0tOj"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\product_card.dart","last_edit":1733487105120,"total_time":1278897,"is_writing":0,"_id":"fyLtL6rDvVh2fN9U"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\data\\datasources\\delivery_remote_datasource.dart","last_edit":1733569396146,"total_time":2169996,"is_writing":0,"_id":"gYmMPMwVz3mVfAQJ"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\presentation\\bloc\\order_event.dart","last_edit":1733557948836,"total_time":11072,"is_writing":0,"_id":"is1HO8GPjCzjgr1s"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\presentation\\widgets\\coffee_card.dart","last_edit":1733545747222,"total_time":80083,"is_writing":0,"_id":"jZYqBJae8H9jzmtn"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\constants\\api_endpoints.dart","last_edit":1733564474344,"total_time":1644,"is_writing":0,"_id":"jsblZnBihxdfcDiO"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\data\\repositories\\product_repository_impl.dart","last_edit":1733552058130,"total_time":13693,"is_writing":0,"_id":"kJGwPnU24GVzNXpB"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\data\\repositories\\coffee_shop_repository_impl.dart","last_edit":1733487104673,"total_time":1278669,"is_writing":0,"_id":"nTPRaiIXh1ZyH2WV"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\constants\\api_paths.dart","last_edit":1733564484800,"total_time":937,"is_writing":0,"_id":"o2gnkEW3UWhIBetJ"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733560468155,"total_time":177,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\core\\utils\\application_logger.dart","last_edit":1733567411507,"total_time":15481,"is_writing":0,"_id":"qwxVHy09A40yLiTF"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\widgets\\header_widget.dart","last_edit":1733569725547,"total_time":33676,"is_writing":0,"_id":"vhrII5DSpJymfsKI"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\order_management\\data\\datasources\\order_remote_data_source.dart","last_edit":1733558264055,"total_time":16607,"is_writing":0,"_id":"wkFPaqkS3UJSo8dA"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\presentation\\widgets\\featured_products.dart","last_edit":1733487105075,"total_time":1278683,"is_writing":0,"_id":"xDtRZxpSsUxrP4bh"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\domain\\usecases\\get_coffees.dart","last_edit":1733543466456,"total_time":27212,"is_writing":0,"_id":"xF2hiMnRMCawsxYO"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_catalog\\data\\repositories\\coffee_repository_impl.dart","last_edit":1733543411940,"total_time":65991,"is_writing":0,"_id":"yaHDq2zBxlP0TeJh"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\coffee_shop\\domain\\usecases\\get_featured_products.dart","last_edit":1733487105053,"total_time":1278778,"is_writing":0,"_id":"yl8IDePOFu0omNmP"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\product_detail\\presentation\\widgets\\product_header_widget.dart","last_edit":1733553470680,"total_time":28160,"is_writing":0,"_id":"yr0HzOVCU9MyTMxI"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642741726,"total_time":873,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642773519,"total_time":1216,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733642997687,"total_time":1318,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"extension-output-KshitijGavhane.hutouch-ai-#1-HuTouch AI Extension Logs","last_edit":1733643205839,"total_time":1324,"is_writing":0,"_id":"pkfSEL7Cmd8Pqmhf"}
+{"file_path":"f:\\Flutter Applications\\coffee_app\\lib\\features\\delivery_tracking\\presentation\\pages\\delivery_status_page.dart.git","last_edit":1733644856987,"total_time":8,"is_writing":0,"_id":"7z0GKpnIF39ocpP0"}
+{"file_path":"git\\scm0\\input","last_edit":1733644865192,"total_time":52,"is_writing":0,"_id":"qFXDWa3FrQoc27wf"}

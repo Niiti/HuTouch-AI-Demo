@@ -1,0 +1,30 @@
+import 'package:dartz/dartz.dart';
+import '../../../core/error/custom_exceptions.dart';
+import '../../../core/error/error_handling.dart';
+import '../../../core/network/network_status.dart';
+import '../../domain/entities/coffee.dart';
+import '../../domain/repositories/coffee_repository.dart';
+import '../datasources/coffee_remote_data_source.dart';
+import '../models/coffee_model.dart';
+
+class CoffeeRepositoryImpl implements CoffeeRepository {
+  final CoffeeRemoteDataSource remoteDataSource;
+  final NetworkInfo networkInfo;
+
+  CoffeeRepositoryImpl({
+    required this.remoteDataSource,
+    required this.networkInfo,
+  });
+
+  @override
+  Future<Either<Failure, List<Coffee>>> getCoffees() async {
+    return await handleError(() async {
+      if (await networkInfo.isConnected) {
+        final remoteCoffees = await remoteDataSource.fetchCoffees();
+        return Right(remoteCoffees);
+      } else {
+        throw ServerException();
+      }
+    });
+  }
+}
