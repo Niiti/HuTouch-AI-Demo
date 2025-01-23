@@ -10,7 +10,7 @@ While corporates/industries profit from AI, we developers are left with Grammarl
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
-We have over 23yrs of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
+We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
 Below are a few projects we built using HuTouch to demonstrate the time saved, reusable tailored code generated, review comments for self review and learning path to elevate skills.
 
