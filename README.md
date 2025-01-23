@@ -1,32 +1,18 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
-# Welcome to the Hutouch Demo 🚀
+#  HuTouch 🚀
 
-Welcome to the Hutouch Demo repository. This repository contains various projects demonstrating the capabilities of Hutouch.
+While corporates/industries profit from AI, we developers are left with Grammarly for coding and irrelevant code. It still is hard to make time for things that matter most or apply our hard earned skills. HuTouch is a personal AI for developers to generate tailored code and unleash their potential at work.
 
-## 📋 Table of Contents
+## 🌟 How does HuTouch Help
 
-- [Welcome to the Hutouch Demo](#welcome-to-the-hutouch-demo)
-- [ℹ️About This Repository](#about-this-repository)
-- [🌟 Features](#-features)
-- [🖥️Installation](#installation)
-- [📂 Projects](#-projects)
-- [👥 Contributors](#-contributors)
+- Focus on applying your talents on complex/custom/challenging coding tasks while HuTouch generates the 1st working app/screen tailored to your project specs (saves >25% effort & generates >50% reusable code)
+- Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
+- Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
-## About This Repository
+We have over 23yrs of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
-This repository is organized into several projects, each showcasing different features and functionalities of Hutouch. Feel free to explore the projects and learn more about how Hutouch can be used in different scenarios.
-
-## 🌟 Features
-
-- **New Project from Figma**
-- **New Screen on existing Screen**
-- **Seamless API Integrations**
-- **Update and modification on existing project**
-- **Review Project and learning scope**
-
-## Installation
-![Video Placeholder](https://via.placeholder.com/800x450.png?text=Video+Placeholder)
+Below are a few projects we built using HuTouch to demonstrate the time saved, reusable tailored code generated, review comments for self review and learning path to elevate skills.
 
 ## 📂 Projects
 
