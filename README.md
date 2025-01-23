@@ -14,6 +14,8 @@ We have over 2 decades of IT experience and understand how difficult it is for u
 
 Below are a few projects we built using HuTouch to demonstrate the time saved, reusable tailored code generated, review comments for self review and learning path to elevate skills.
 
+Also, here's a demo: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
+
 ## 📂 Projects
 
 | Project Name           | Description                     |
