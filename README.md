@@ -19,17 +19,14 @@ Also, here's a demo: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 Below are a few projects we built using HuTouch to demonstrate how HuTouch helped
 
 
-| Project Name           | Benefits                     |
+| Project Name           | Results                     |
 |------------------------|---------------------------------|
-| [Reciepy App](recipely)   | Description of Reciepy App       |
-| [Youtube Clone App](youtube)| Description of YouTube Clone App |
-| [Friendzy App](dating3) | Description of Friendzy App      |
-| [Wyntra App](wyntra)     | Description of Wyntra App        |
-| [Ecommerce App](ecomm)| Description of Ecommerce App    |
-| [Sports App](sportify)| Description of Sports App    |
-| [Coffee App](coffee_app)| Description of Coffee App    |
-| [Wafii App](WafiiApp)| Description of Wafii App    |
-| [Coffee App Bloc](coffee_app_bloc)| Description of Coffee App using bloc   |
+| [Reciepy App](recipely)   | 5 screens with 3 APIs @ 1.5hrs and 81% reusable code       |
+| [Youtube Clone App](youtube)| 5 screens with 1 API @ 1.25hrs and 85% reusable code |
+| [Friendzy App](dating3) | 1 screen with 1 API @ 0.5hrs and 78% reusable code      |
+| [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and 82% reusable code |
+| [Wafii App](WafiiApp)| 8 screens with 2 APIs @ 2.5hrs and 74% reusable code    |
+| [Coffee App Bloc](coffee_app_bloc)| 2 screens @ 0.5hrs and 92% reusable code   |
 
 ---
 
