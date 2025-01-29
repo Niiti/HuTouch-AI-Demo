@@ -1,6 +1,6 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
-#  HuTouch 🚀
+#  HuTouch 🚀 Unleash your potential
 
 While corporates/industries profit from AI, we developers are left with Grammarly for coding and irrelevant code. It still is hard to make time for things that matter most or apply our hard earned skills. HuTouch is a personal AI for developers to generate tailored code and unleash their potential at work.
 
