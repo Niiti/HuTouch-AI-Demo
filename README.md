@@ -43,6 +43,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 - Self Review code before PR process
 
 ### Tailored to your specs:
+HuTouch integrates with your tools to generate reusable code tailored to your project specs.
 - UI elements directly from your Figma
 - Coding standards across 10 different categories OR simply allow HuTouch to use coding standards from your favorite project
 - Functional requirements from web or from your documents
