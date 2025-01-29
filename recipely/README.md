@@ -7,7 +7,7 @@
 
 ## Time Breakdown
 
-The total time taken to generate the code was **26 minutes (1.51 hours)**. Below is a detailed breakdown of the time spent on each feature:
+The total time taken to generate the code was **91 minutes (1.51 hours)**. Below is a detailed breakdown of the time spent on each feature:
 
 | **Feature**            | **Time Spent** |
 |------------------------|----------------|
