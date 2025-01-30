@@ -38,7 +38,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 - Generate code for screens from scratch 
 - Generate code for API integration
 - Add new functionalities or update existing functionalities
-- Fix errors 
+- Fix errors or refactor existing code
 - Self Review code before PR process
 
 ### Tailored to your specs:
@@ -52,3 +52,8 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Personalized learning of new coding skills based on your current expertise
 - Articles/tutorials that are short
 - Learn on every project instead of on quarterly basis
+
+### Assitant for non-coding tasks:
+- Task priorities of the day
+- Create tailored emails/chat messages
+- Prep for meetings
