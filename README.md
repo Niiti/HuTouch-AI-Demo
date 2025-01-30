@@ -53,7 +53,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Articles/tutorials that are short
 - Learn on every project instead of on quarterly basis
 
-### Assitant for non-coding tasks:
+### Assist on non-coding tasks:
 - Task priorities of the day
 - Create tailored emails/chat messages
 - Prep for meetings
