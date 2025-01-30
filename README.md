@@ -12,7 +12,7 @@ While corporates/industries profit from AI, we developers are left with Grammarl
 
 Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 
-If you would like to sign-up for a free private beta access then connect with us on Discord: https://discord.gg/v6qp9g6e 
+If you would like to sign-up for a free private beta access then please click here: https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am 
 
 We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
