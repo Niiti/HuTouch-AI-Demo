@@ -12,8 +12,7 @@ While corporates/industries profit from AI, we developers are left with Grammarl
 
 Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 
-Send us an email at logical@niiti.com if you would like to sign-up for a free private beta access
-OR DM us on Discord: https://discord.com/users/925943924877570078 
+If you would like to sign-up for a free private beta access then send us an email at logical@niiti.com OR DM us on Discord: https://discord.com/users/925943924877570078 
 
 We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
