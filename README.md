@@ -10,9 +10,15 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
-Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
+## 🎯 What are customers saying?
 
-Private beta access sign-up for Free use of HuTouch is open: https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am 
+- "Generated code is so much reusable and it does it in just one prompt"
+
+- "Easily saves time by generating code better than bringing boilerplate code together"
+
+Sign-up here for a private beta access for a 3 months Free usage of HuTouch ($120 value – on a $40/month plan!): https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am
+
+Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 
 We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
