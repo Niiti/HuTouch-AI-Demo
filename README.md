@@ -16,7 +16,7 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 
 - "Easily saves time by generating code better than bringing boilerplate code together"
 
-Sign-up here for a private beta access for a 3 months Free usage of HuTouch ($120 value – on a $40/month plan!): https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am
+Sign-up here for a private beta access for a 1 month Free usage of HuTouch ($40 value!): https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am
 
 Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 
