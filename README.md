@@ -13,11 +13,14 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 
 ## ⬇️ Install HuTouch - MacOS (Coming soon to Windows)
 
-- Download HuTouch app using this link: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
-- After download, run this on your terminal:
-- Open HuTouch app and follow the setup instructions
-- Use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot
-- Use HuTouch app home screen to find out instructions on how to use HuTouch for all types of tasks
+- Download HuTouch app: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
+- Drag and drop the HuTouch files into your application folder
+- After download, open the terminal and navigate to your application folder
+- Check if HuTouch has been successfully added to the application folder
+- Execute the command: xattr -cr /Applications/HuTouch_AI.app
+- Once the command finishes execution, open HuTouch app and follow the setup instructions
+- Once setup is done, then simply use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot 
+- To learn more use HuTouch app home screen to find out instructions on how to use HuTouch for all types of tasks
 
 ## 🎯 What are customers saying?
 
