@@ -1,6 +1,6 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
-[![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
+
 #  HuTouch 🚀 Unleash your true potential
 
 While corporates/industries profit from AI, **we developers are left with Grammarly for coding and irrelevant code**. It still is hard to make time for things that matter most or apply our hard earned skills. HuTouch is a personal AI for developers to generate tailored code and unleash their potential at work.
@@ -11,15 +11,19 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
+## ⬇️ Install HuTouch - MacOS (Coming soon to Windows)
+
+- Download HuTouch app using this link: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
+- After download, run this on your terminal:
+- Open HuTouch app and follow the setup instructions
+- Use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot
+- Use HuTouch app home screen to find out instructions on how to use HuTouch for all types of tasks
+
 ## 🎯 What are customers saying?
 
 - "Generated code is so much reusable and it does it in just one prompt"
 
 - "Easily saves time by generating code better than bringing boilerplate code together"
-
-Sign-up here for a private beta access for a 1 month Free usage of HuTouch ($40 value!): https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am
-
-Here's a demo of our early version: https://youtu.be/PlGJ_i-9Z3E?si=hkQESLvpAbSo-1IX
 
 We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
 
@@ -45,7 +49,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 - Generate code for screens from scratch 
 - Generate code for API integration
 - Add new functionalities or update existing functionalities
-- Fix errors or refactor existing code
+- Fix errors in a file
 - Self Review code before PR process
 
 ### Tailored to your specs:
