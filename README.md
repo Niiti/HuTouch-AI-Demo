@@ -11,7 +11,7 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
-## ⬇️ Install HuTouch - MacOS (Coming soon to Windows)
+## ⬇️ Important Installation Instructions - MacOS (Coming soon to Windows)
 
 - Download HuTouch app: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
 - Drag and drop the HuTouch files into your application folder
