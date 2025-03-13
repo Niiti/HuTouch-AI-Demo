@@ -11,19 +11,6 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
-## ⬇️ Important Installation Instructions - MacOS (Coming soon to Windows)
-
-- Download HuTouch app: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
-- Drag and drop the HuTouch files into your application folder
-- After download, navigate to your application folder or launchpad
-- Check if HuTouch has been successfully added to the application folder
-- Execute the command on default Terminal: xattr -cr /Applications/HuTouch_AI.app
-- Once the command finishes execution, open HuTouch app and follow the setup instructions
-- Make sure to have your coding standards, access to important dev tools and plugins for IDE setup before you start coding with HuTouch
-- Once setup is done, then simply use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot 
-- To learn more use HuTouch app home screen to find out instructions on how to use HuTouch for all types of tasks
-
-
 ## 🎯 What are customers saying?
 
 - "Generated code is so much reusable and it does it in just one prompt"
