@@ -76,42 +76,42 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 
 ---
 
-##HuTouch-Alpha-v1.01 - Install & Setup##
+## HuTouch-Alpha-v1.01 - Install & Setup
 
-###Steps to Install HuTouch:### 
-1. Download HuTouch App for MacOS (Coming soon to Windows) from GitHub
+### Steps to Install HuTouch: 
+1. Download HuTouch App for MacOS (Coming soon to Windows): [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
 2. Drag and drop the HuTouch files into your application folder
 3. After download, open the terminal and navigate to your application folder
 4. Check if HuTouch has been successfully added to the application folder
 5. Execute the command: xattr -cr /Applications/HuTouch_AI.app
 6. Once the command finishes execution, open HuTouch app and follow the setup instructions
 
-###Setup Plugins: Required### to help HuTouch interact with your code
+### Setup Plugins: Required to help HuTouch interact with your code
 1. Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
 2. Upon click of your preferred plugin, you'll be directed to HuTouch plugin website
 3. Follow instructions to install the plugin
 
-###Setup Coding Style: Required### to generate reliable code
+### Setup Coding Style: Required to generate reliable code
 1. Open your reference project in your IDE
 2. Click "Extract" button to allow HuTouch to analyze the code and generate coding standards from it
 3. Give HuTouch a few mins to do so
 4. Once done, HuTouch will allow you to review & update the coding standards on the screen
 
-###Access to Tools: Some are Required### to generate tailored code
+### Access to Tools: Some are Required to generate tailored code
 1. Select tools one at a time, like Figma, Postman, Jira, Slack that you use for coding and non-coding tasks
 2. HuTouch will display instructions for each tool
 3. Follow the instructions to provide access to HuTouch
 
-###Accessibility access: Required### to allow HuTouch hotkeys to work
+### Accessibility access: Required to allow HuTouch hotkeys to work
 1. Read the instructions on the screen
 2. Click button to open your MacOS settings
 3. Follow the provided instructions and allow HuTouch to be accessible through Hotkeys
 
 ---
 
-##HuTouch-Alpha-v1.01 - How to use (also available on HuTouch Home Screen)## 
+## HuTouch-Alpha-v1.01 - How to use (also available on HuTouch Home Screen)
 
-###Generate code for screens from scratch/large code base:###
+### Generate code for screens from scratch/large code base:
 1. Open the Figma file that you will need to use
 2. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
 3. Select "Generate code for screen/UI" or provide a prompt on the chatbot to generate code for a screen. Make sure to provide the screen name or follow the instructions on the screen
@@ -122,7 +122,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 8. Files added: Select Review button to see the files added in your IDE
 9. Modified flies: Select Review button to see the changes to existing files in IDE, review the same and accept the lines of code you want to proceed with
 
-###Modify Code:###
+### Modify Code:
 1. Open IDE for the project/code you want to modify
 2. If there is a specific set of lines of code you want to modify, select the same. Else go to the next step
 3. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
@@ -132,7 +132,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 7. To update a functionality on a screen/file, select "Modify" and provide the details of the change you need with the screen or file name
 8. To add a functionality on a screen/file, select "Modify" and provide the details of the new functionality you need with the screen or file name
 
-###API Integration:###
+### API Integration:
 1. Open Postman that has APIs of the project/screen you want to use
 2. If you need integration with 3rd party APIs, then download the details of the 3rd party API as a document
 3. Use the Hotkey (CTRL+COMMAND+H) on Postman to call HuTouch Chatbot
