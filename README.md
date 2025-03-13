@@ -19,8 +19,10 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Check if HuTouch has been successfully added to the application folder
 - Execute the command: xattr -cr /Applications/HuTouch_AI.app
 - Once the command finishes execution, open HuTouch app and follow the setup instructions
+- Make sure to have your coding standards, access to important dev tools and plugins for IDE setup before you start coding with HuTouch
 - Once setup is done, then simply use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot 
 - To learn more use HuTouch app home screen to find out instructions on how to use HuTouch for all types of tasks
+
 
 ## 🎯 What are customers saying?
 
