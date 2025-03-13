@@ -73,3 +73,34 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Task priorities of the day
 - Create tailored emails/chat messages
 - Prep for meetings
+
+**HuTouch-Alpha-v1.01 - Install & Setup**
+
+Steps to Install HuTouch:: Installer for HuTouch is available in GitHub -> https://github.com/Niiti/HuTouch-AI-Demo/blob/main/README.md
+Download HuTouch App for MacOS (Coming soon to Windows) from GitHub
+Drag and drop the HuTouch files into your application folder
+After download, open the terminal and navigate to your application folder
+Check if HuTouch has been successfully added to the application folder
+Execute the command: xattr -cr /Applications/HuTouch_AI.app
+Once the command finishes execution, open HuTouch app and follow the setup instructions
+
+Setup Plugins: Required to help HuTouch interact with your code
+Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
+Upon click of your preferred plugin, you'll be directed to HuTouch plugin website
+Follow instructions to install the plugin
+
+Setup Coding Style: Required to generate reliable code
+Open your reference project in your IDE
+Click "Extract" button to allow HuTouch to analyze the code and generate coding standards from it
+Give HuTouch a few mins to do so
+Once done, HuTouch will allow you to review & update the coding standards on the screen
+
+Access to Tools: Some are Required to generate tailored code
+Select tools one at a time, like Figma, Postman, Jira, Slack that you use for coding and non-coding tasks
+HuTouch will display instructions for each tool
+Follow the instructions to provide access to HuTouch
+
+Accessibility access: Required to allow HuTouch hotkeys to work
+Read the instructions on the screen
+Click button to open your MacOS settings
+Follow the provided instructions and allow HuTouch to be accessible through Hotkeys
