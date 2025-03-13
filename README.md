@@ -15,9 +15,9 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 
 - Download HuTouch app: [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
 - Drag and drop the HuTouch files into your application folder
-- After download, open the terminal and navigate to your application folder
+- After download, navigate to your application folder or launchpad
 - Check if HuTouch has been successfully added to the application folder
-- Execute the command: xattr -cr /Applications/HuTouch_AI.app
+- Execute the command on default Terminal: xattr -cr /Applications/HuTouch_AI.app
 - Once the command finishes execution, open HuTouch app and follow the setup instructions
 - Make sure to have your coding standards, access to important dev tools and plugins for IDE setup before you start coding with HuTouch
 - Once setup is done, then simply use the Hotkey (CTRL+CMD+H) to call HuTouch chatbot 
