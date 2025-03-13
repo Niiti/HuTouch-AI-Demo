@@ -74,33 +74,73 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Create tailored emails/chat messages
 - Prep for meetings
 
-**HuTouch-Alpha-v1.01 - Install & Setup**
+---
 
-Steps to Install HuTouch:: Installer for HuTouch is available in GitHub -> https://github.com/Niiti/HuTouch-AI-Demo/blob/main/README.md
-Download HuTouch App for MacOS (Coming soon to Windows) from GitHub
-Drag and drop the HuTouch files into your application folder
-After download, open the terminal and navigate to your application folder
-Check if HuTouch has been successfully added to the application folder
-Execute the command: xattr -cr /Applications/HuTouch_AI.app
-Once the command finishes execution, open HuTouch app and follow the setup instructions
+##HuTouch-Alpha-v1.01 - Install & Setup##
 
-Setup Plugins: Required to help HuTouch interact with your code
-Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
-Upon click of your preferred plugin, you'll be directed to HuTouch plugin website
-Follow instructions to install the plugin
+###Steps to Install HuTouch:### 
+1. Download HuTouch App for MacOS (Coming soon to Windows) from GitHub
+2. Drag and drop the HuTouch files into your application folder
+3. After download, open the terminal and navigate to your application folder
+4. Check if HuTouch has been successfully added to the application folder
+5. Execute the command: xattr -cr /Applications/HuTouch_AI.app
+6. Once the command finishes execution, open HuTouch app and follow the setup instructions
 
-Setup Coding Style: Required to generate reliable code
-Open your reference project in your IDE
-Click "Extract" button to allow HuTouch to analyze the code and generate coding standards from it
-Give HuTouch a few mins to do so
-Once done, HuTouch will allow you to review & update the coding standards on the screen
+###Setup Plugins: Required### to help HuTouch interact with your code
+1. Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
+2. Upon click of your preferred plugin, you'll be directed to HuTouch plugin website
+3. Follow instructions to install the plugin
 
-Access to Tools: Some are Required to generate tailored code
-Select tools one at a time, like Figma, Postman, Jira, Slack that you use for coding and non-coding tasks
-HuTouch will display instructions for each tool
-Follow the instructions to provide access to HuTouch
+###Setup Coding Style: Required### to generate reliable code
+1. Open your reference project in your IDE
+2. Click "Extract" button to allow HuTouch to analyze the code and generate coding standards from it
+3. Give HuTouch a few mins to do so
+4. Once done, HuTouch will allow you to review & update the coding standards on the screen
 
-Accessibility access: Required to allow HuTouch hotkeys to work
-Read the instructions on the screen
-Click button to open your MacOS settings
-Follow the provided instructions and allow HuTouch to be accessible through Hotkeys
+###Access to Tools: Some are Required### to generate tailored code
+1. Select tools one at a time, like Figma, Postman, Jira, Slack that you use for coding and non-coding tasks
+2. HuTouch will display instructions for each tool
+3. Follow the instructions to provide access to HuTouch
+
+###Accessibility access: Required### to allow HuTouch hotkeys to work
+1. Read the instructions on the screen
+2. Click button to open your MacOS settings
+3. Follow the provided instructions and allow HuTouch to be accessible through Hotkeys
+
+---
+
+##HuTouch-Alpha-v1.01 - How to use (also available on HuTouch Home Screen)## 
+
+###Generate code for screens from scratch/large code base:###
+1. Open the Figma file that you will need to use
+2. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
+3. Select "Generate code for screen/UI" or provide a prompt on the chatbot to generate code for a screen. Make sure to provide the screen name or follow the instructions on the screen
+4. HuTouch will ask for Figma URL and screen name in Figma
+5. HuTouch will ask for requirements documentation on the screen, alternatively you can allow HuTouch to look up the internet for relevant requirements for the screen
+6. HuTouch will ask for confirmation on coding standards, which you can either update or re-use from your setup steps
+7. HuTouch will next generate code and display a list of files that were added or modified
+8. Files added: Select Review button to see the files added in your IDE
+9. Modified flies: Select Review button to see the changes to existing files in IDE, review the same and accept the lines of code you want to proceed with
+
+###Modify Code:###
+1. Open IDE for the project/code you want to modify
+2. If there is a specific set of lines of code you want to modify, select the same. Else go to the next step
+3. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
+4. Select the recommended actions on the screen and follow the instructions
+5. To fix errors in a file, select "Error Fix" or provide a prompt and HuTouch will provide fixes to all errors in the file
+6. To update the lines of code you selected, pick "Modify" and provide details in the prompt
+7. To update a functionality on a screen/file, select "Modify" and provide the details of the change you need with the screen or file name
+8. To add a functionality on a screen/file, select "Modify" and provide the details of the new functionality you need with the screen or file name
+
+###API Integration:###
+1. Open Postman that has APIs of the project/screen you want to use
+2. If you need integration with 3rd party APIs, then download the details of the 3rd party API as a document
+3. Use the Hotkey (CTRL+COMMAND+H) on Postman to call HuTouch Chatbot
+4. Select API integration or use the prompt to provide API integration details
+5. HuTouch will ask if this is an internal or external (3rd party) API, select accordingly
+6. Based on your selection either upload 3rd party API documentation or provide the API details
+7. Give HuTouch a few mins to generate the code
+8. HuTouch will next generate code and display a list of files that were added or modified for integrating with internal or external APIs
+9. Files added: Select Review button to see the files added in your IDE
+10. Modified flies: Select Review button to see the changes to existing files in IDE, review the same and accept the lines of code you want to proceed with
+
