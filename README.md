@@ -99,7 +99,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 ## HuTouch-Alpha-v1.01 - How to use (also available on HuTouch Home Screen)
 
 ### Generate code for screens from scratch/large code base:
-1. Open the Figma file that you will need to use
+1. Open the Figma file that you will need to use and if possible keep your IDE open in the background
 2. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
 3. Select "Generate code for screen/UI" or provide a prompt on the chatbot to generate code for a screen. Make sure to provide the screen name or follow the instructions on the screen
 4. HuTouch will ask for Figma URL and screen name in Figma
@@ -131,3 +131,21 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 9. Files added: Select Review button to see the files added in your IDE
 10. Modified flies: Select Review button to see the changes to existing files in IDE, review the same and accept the lines of code you want to proceed with
 
+### Code Review:
+1. Open IDE for the project/code you want to review
+2. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
+3. Select "Review Code" or use prompt to ask HuTouch to review the code
+4. HuTouch will then use the project in the IDE to review the code
+5. HuTouch will recommend a list of categories with details that can help improve the code
+
+### Continuous Learning:
+1. Open IDE for the project/code you want to review
+2. Use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
+3. Select "Continuous Learning" or use prompt to ask HuTouch to help you with personalized learning
+4. HuTouch will then use the project in the IDE to understand areas to elevate coding skills
+5. HuTouch will recommend a list of articles, tutorials with time required for each
+
+### Task Priority:
+1. On your desktop or Jira or any tool, use the Hotkey (CTRL+COMMAND+H) to call HuTouch Chatbot
+2. Select "Task Priority" or use a prompt to ask HuTouch to help with important tasks for the day
+3. HuTouch will then look at all the connected apps and display a list of tasks important for the day
