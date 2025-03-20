@@ -66,7 +66,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 ## HuTouch-Alpha-v1.01 - Install & Setup
 
 ### Steps to Install HuTouch: 
-1. Download HuTouch App for MacOS (Coming soon to Windows): [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/uc?export=download&id=1FYDTg2nPPHY3cV7w96H9eF16K9maud33)
+1. Download HuTouch App for MacOS (Coming soon to Windows): [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/file/d/1ShrRFUaHx5QE8Vzlk6xooPZT8vrbeKcK/view?usp=sharing)
 2. Drag and drop the HuTouch files into your application folder
 3. After download, open the terminal and navigate to your application folder
 4. Check if HuTouch has been successfully added to the application folder
