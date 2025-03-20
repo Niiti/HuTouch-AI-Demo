@@ -63,7 +63,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 
 ---
 
-## HuTouch-Alpha-v1.01 - Install & Setup
+## HuTouch-Alpha-v2 - Install & Setup
 
 ### Steps to Install HuTouch: 
 1. Download HuTouch App for MacOS (Coming soon to Windows): [![⬇️ Click here to download](https://img.shields.io/badge/%E2%AC%87%20Click%20here%20to%20download-red?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff758c)](https://drive.google.com/file/d/1ShrRFUaHx5QE8Vzlk6xooPZT8vrbeKcK/view?usp=sharing)
@@ -96,7 +96,7 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 
 ---
 
-## HuTouch-Alpha-v1.01 - How to use (also available on HuTouch Home Screen)
+## HuTouch-Alpha-v2 - How to use (also available on HuTouch Home Screen)
 
 ### Generate code for screens from scratch/large code base:
 1. Open the Figma file that you will need to use and if possible keep your IDE open in the background
