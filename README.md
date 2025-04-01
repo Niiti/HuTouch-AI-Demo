@@ -11,6 +11,8 @@ While corporates/industries profit from AI, **we developers are left with Gramma
 - Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
 - Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
 
+Demo of HuTouch (Alpha version): https://youtu.be/ijHEK_wPsAA 
+
 ## 🎯 What are customers saying?
 
 - "Generated code is so much reusable and it does it in just one prompt"
