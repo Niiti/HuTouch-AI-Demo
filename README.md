@@ -62,6 +62,8 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Create tailored emails/chat messages
 - Prep for meetings
 
+Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/EjrX7Ffe 
+
 ---
 
 ## HuTouch-Alpha-v2 - Install & Setup
