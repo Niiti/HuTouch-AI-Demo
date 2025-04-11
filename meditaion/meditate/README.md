@@ -29,8 +29,8 @@ The total time taken to generate the code was **28 minutes (0.46 hours)**. Below
         <img src="assets/images/reminders.jpg" alt="Reminder screen" width="200"/>
     </div>
     <div>
-        <b>Sign-up Screen</b>
-        <img src="assets/sign up.jpg" alt="Profile Screen" width="200"/>
+        <b>Course details screen</b>
+        <img src="assets/images/coursedetails.jpg" alt="Course details screen.jpg" width="200"/>
     </div>
 </div>
 
