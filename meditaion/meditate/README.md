@@ -1,16 +1,40 @@
-# meditate
+# Profile screen
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Time Breakdown
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The total time taken to generate the code was **28 minutes (0.46 hours)**. Below is a detailed breakdown of the time spent on each feature:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| **Feature**            | **Time Spent** |
+|------------------------|----------------|
+| welcome sleep          | 8 mins        |
+| Api Integration        | 6 mins        |
+| Manual fixed           | 5 mins        |
+| **Total**              | **19 mins**   |
+
+
+## Screenshots
+
+*Screenshots of the application's output will be added here.*
+
+<div style="display: flex; justify-content: space-around; gap: 20px;">
+    <div>
+        <b>Onboarding Screen</b>
+        <img src="assets/onboarding.jpg" alt="Profile Screen" width="200"/>
+    </div>
+    <div>
+        <b>Sign-in/Log-in Screen</b>
+        <img src="assets/signin.jpg" alt="Profile Screen" width="200"/>
+    </div>
+    <div>
+        <b>Sign-up Screen</b>
+        <img src="assets/sign up.jpg" alt="Profile Screen" width="200"/>
+    </div>
+</div>
+
+## Upskill result
+
+This document provides detailed instructions and is part of the upskilling initiative from HuTouch.: [Upskill.txt](upskill.txt)
+---
