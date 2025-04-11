@@ -28,11 +28,12 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 
 | Project Name           | Results                     |
 |------------------------|---------------------------------|
-| [Youtube Clone App](youtube)| 5 screens with 1 API @ 1.25hrs and 85% reusable code |
-| [Friendzy App](dating3) | 1 screen with 1 API @ 0.5hrs and 78% reusable code      |
-| [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and 82% reusable code |
-| [Wafii App](WafiiApp)| 8 screens with 2 APIs @ 2.5hrs and 74% reusable code    |
-| [Coffee App Bloc](coffee_app_bloc)| 2 screens @ 0.5hrs and 92% reusable code   |
+| [StreamFlix](youtube)| 5 screens with 1 API @ 1.5hrs and >80% reusable code |
+| [Youtube Clone App](youtube)| 5 screens with 1 API @ 1.25hrs and >85% reusable code |
+| [Friendzy App](dating3) | 1 screen with 1 API @ 0.5hrs and >78% reusable code      |
+| [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and >82% reusable code |
+| [Wafii App](WafiiApp)| 8 screens with 2 APIs @ 2.5hrs and >74% reusable code    |
+| [Coffee App Bloc](coffee_app_bloc)| 2 screens @ 0.5hrs and >92% reusable code   |
 
 ---
 
