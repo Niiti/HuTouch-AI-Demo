@@ -31,7 +31,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 
 | Project Name           | Results                     |
 |------------------------|---------------------------------|
-| [StreamFlix](youtube)| 5 screens with 1 API @ 1.5hrs and >80% reusable code |
+| [StreamFlix](https://github.com/Niiti/HuTouch-AI-Demo/tree/main/Streamflix)| 5 screens with 1 API @ 1.5hrs and >80% reusable code |
 | [Youtube Clone App](youtube)| 5 screens with 1 API @ 1.25hrs and >85% reusable code |
 | [Friendzy App](dating3) | 1 screen with 1 API @ 0.5hrs and >78% reusable code      |
 | [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and >82% reusable code |
