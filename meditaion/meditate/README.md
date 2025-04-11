@@ -22,11 +22,11 @@ The total time taken to generate the code was **28 minutes (0.46 hours)**. Below
 <div style="display: flex; justify-content: space-around; gap: 20px;">
     <div>
         <b>Welcome sleep screen</b>
-        <img src="assets/images/welcomesleep.jpg" alt="Profile Screen" width="200"/>
+        <img src="assets/images/welcomesleep.jpg" alt="Welcome sleep screen" width="200"/>
     </div>
     <div>
-        <b>Sign-in/Log-in Screen</b>
-        <img src="assets/signin.jpg" alt="Profile Screen" width="200"/>
+        <b>Reminder screen</b>
+        <img src="assets/images/reminders.jpg" alt="Reminder screen" width="200"/>
     </div>
     <div>
         <b>Sign-up Screen</b>
