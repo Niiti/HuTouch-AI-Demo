@@ -22,7 +22,7 @@ The total time taken to generate the code was **28 minutes (0.46 hours)**. Below
 <div style="display: flex; justify-content: space-around; gap: 20px;">
     <div>
         <b>Welcome sleep screen</b>
-        <img src="meditaion/meditate/assets/images/welcomesleep.jpg" alt="Profile Screen" width="200"/>
+        <img src="assets/images/welcomesleep.jpg" alt="Profile Screen" width="200"/>
     </div>
     <div>
         <b>Sign-in/Log-in Screen</b>
