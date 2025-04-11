@@ -5,14 +5,16 @@
 
 ## Time Breakdown
 
-The total time taken to generate the code was **19 minutes**. Below is a detailed breakdown of the time spent on each feature:
+The total time taken to generate the code was **36 minutes**. Below is a detailed breakdown of the time spent on each feature:
 
 | **Feature**            | **Time Spent** |
 |------------------------|----------------|
-| welcome sleep          | 8 mins        |
+| welcome sleep screen         | 7 mins        |
+| reminder screen        | 10 mins        |
+| course screen          | 8 mins        |
 | Api Integration        | 6 mins        |
 | Manual fixed           | 5 mins        |
-| **Total**              | **19 mins**   |
+| **Total**              | **36 mins**   |
 
 
 ## Screenshots
