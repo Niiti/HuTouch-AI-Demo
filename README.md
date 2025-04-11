@@ -69,7 +69,7 @@ Hop on to our discord server to learn more or discuss about HuTouch or just shar
 ## HuTouch-Alpha-v2 - Install & Setup
 
 ### Steps to Install HuTouch: 
-1. Download HuTouch App for MacOS (Coming soon to Windows): ⬇️ Click here to download(https://1drv.ms/u/c/c02b815a6daf18c2/EYhmUycaH6VJgkPEMbBCTOYBQcy-r8xy-k6ca0d-A1SMnQ)
+1. Download HuTouch App for MacOS (Coming soon to Windows): [⬇️ Click here to download](https://1drv.ms/u/c/c02b815a6daf18c2/EYhmUycaH6VJgkPEMbBCTOYBQcy-r8xy-k6ca0d-A1SMnQ)
 2. Drag and drop the HuTouch files into your application folder
 3. After download, open the terminal and navigate to your application folder
 4. Check if HuTouch has been successfully added to the application folder
