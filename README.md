@@ -3,13 +3,16 @@
 
 #  HuTouch 🚀 Unleash your true potential
 
-While corporates/industries profit from AI, **we developers are left with Grammarly for coding and irrelevant code**. It still is hard to make time for things that matter most or apply our hard earned skills. HuTouch is a personal AI for developers to generate tailored code and unleash their potential at work.
+Low value tasks in your way to do meaningful work? 61% of our tasks are repetitive or not meant for our hard earned skills causing heavy workloads and burnouts.  
+Developers are still manually converting designs to code, individuals are still digging through slack, emails, Jira to find tasks, when our time are better applied on meaningful tasks, like strengthening the code or work life balance. It’s time to put a **dent in the world’s workload using HuTouch**, a personal AI that automates low value tasks. 
 
 ## 🌟 How does HuTouch Help
 
-- Focus on applying your talents on complex/custom/challenging coding tasks while HuTouch generates the 1st working app/screen tailored to your project specs (saves >25% effort & generates >50% reusable code)
-- Self review your code with HuTouch to reduce 20% review comments and thus have more time to focus on strengthening the code or validating the architecture
-- Elevate your coding skills on the job with the help of articles/short tutorials recommended by HuTouch personalized to your current coding skills
+HuTouch for developers is an AI assistant and AI coding tool to help with the below:
+- Save >25% coding effort where HuTouch generates the 1st working screen/logic/API/defect fix tailored to your project specs
+- Generate highly reliable code (>80% reusable code) where your personalized coding standards are applied 
+- Get assistance to dig info in multiple tools to help elevate your coding skills, identify tasks, write emails, summarize code or simply review your code
+- Integrate into your daily workflow using connectivity to your tools like, IDE (VS Code/Android Studio), Figma, Motiff, Postman, Jira, Google apps, Slack, etc  
 
 Demo of HuTouch (Early version): https://youtu.be/ijHEK_wPsAA 
 
@@ -48,7 +51,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 
 ### Tailored to your specs:
 HuTouch integrates with your tools to generate reusable code tailored to your project specs.
-- UI elements directly from your Figma
+- UI elements directly from your Figma/Motiff
 - Coding standards across 10 different categories OR simply allow HuTouch to use coding standards from your favorite project
 - Functional requirements from web or from your documents
 - API from your Postman
@@ -62,15 +65,16 @@ HuTouch integrates with your tools to generate reusable code tailored to your pr
 - Task priorities of the day
 - Create tailored emails/chat messages
 - Prep for meetings
+- Summarize code
 
 Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/EjrX7Ffe 
 
 ---
 
-## HuTouch-Alpha-v2 - Install & Setup
+## HuTouch-Alpha-3 - Install & Setup
 
 ### Steps to Install HuTouch: 
-1. Download HuTouch App for MacOS (Coming soon to Windows): [⬇️ Click here to download](https://1drv.ms/u/c/c02b815a6daf18c2/EYhmUycaH6VJgkPEMbBCTOYBQcy-r8xy-k6ca0d-A1SMnQ)
+1. Download HuTouch App for **MacOS** (Coming soon to Windows): [⬇️ Click here to download](https://1drv.ms/u/c/c02b815a6daf18c2/EYhmUycaH6VJgkPEMbBCTOYBQcy-r8xy-k6ca0d-A1SMnQ)
 2. Drag and drop the HuTouch files into your application folder
 3. After download, open the terminal and navigate to your application folder
 4. Check if HuTouch has been successfully added to the application folder
@@ -100,7 +104,7 @@ Hop on to our discord server to learn more or discuss about HuTouch or just shar
 
 ---
 
-## HuTouch-Alpha-v2 - How to use (also available on HuTouch Home Screen)
+## HuTouch-Alpha-3 - How to use (also available on HuTouch Home Screen)
 
 ### Generate code for screens from scratch/large code base:
 1. Open the Figma file that you will need to use and if possible keep your IDE open in the background
