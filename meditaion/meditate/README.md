@@ -1,4 +1,4 @@
-# Profile screen
+# Meditation App
 
 
 
