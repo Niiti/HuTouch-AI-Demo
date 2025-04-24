@@ -37,7 +37,8 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 | [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and >82% reusable code |
 | [Wafii App](WafiiApp)| 8 screens with 2 APIs @ 2.5hrs and >74% reusable code    |
 | [Coffee App Bloc](coffee_app_bloc)| 2 screens @ 0.5hrs and >92% reusable code   |
-
+| [Sabzi App](sabzi_app_2)| 2 screens @ 0.5hrs and >70% reusable code   |
+| [Tour App](tour_app)| 2 screens @ 0.5hrs and >70% reusable code   |
 ---
 
 ## 📂 Features for Developers
