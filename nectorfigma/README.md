@@ -32,10 +32,12 @@ The total time taken to generate the code was **70 minutes**. Below is a detaile
         <b>Favourites</b>
         <img src="assets/fav.jpg" alt="Reminder screen" width="200"/>
     </div>
-    <div>
-        <b>Home</b>
-        <img src="assets/Home,jpg" alt="Course details screen.jpg" width="200"/>
-    </div>
+  <div>
+    <b>Home</b>
+    <img src="assets/Home.jpg" alt="Course details screen.jpg" width="200"/>
+    <br/>
+    <img src="assets/Home1.jpg" alt="Another screen" width="200"/>
+</div>
     <div>
         <b>MyCart</b>
         <img src="assets/mycart.jpg" alt="Course details screen.jpg" width="200"/>
