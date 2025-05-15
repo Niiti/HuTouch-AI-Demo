@@ -44,7 +44,7 @@ The total time taken to generate the code was **70 minutes**. Below is a detaile
     </div>
     <div>
         <b>Filter</b>
-        <img src="assets/filters.jpg" alt="Course details screen.jpg" width="200"/>
+        <img src="assets/flters.jpg" alt="Course details screen.jpg" width="200"/>
     </div>
 </div>
 
