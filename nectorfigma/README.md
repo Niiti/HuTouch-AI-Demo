@@ -26,23 +26,23 @@ The total time taken to generate the code was **70 minutes**. Below is a detaile
 <div style="display: flex; justify-content: space-around; gap: 20px;">
     <div>
         <b>Explore</b>
-        <img src="nectorfigma\assets\explore.jpg" alt="Welcome sleep screen" width="200"/>
+        <img src="/assets/explore.jpg" alt="Welcome sleep screen" width="200"/>
     </div>
     <div>
         <b>Favourites</b>
-        <img src="nectorfigma/assets/fav" alt="Reminder screen" width="200"/>
+        <img src="/assets/fav" alt="Reminder screen" width="200"/>
     </div>
     <div>
         <b>Home</b>
-        <img src="nectorfigma/assets/Home" alt="Course details screen.jpg" width="200"/>
+        <img src="/assets/Home" alt="Course details screen.jpg" width="200"/>
     </div>
     <div>
         <b>MyCart</b>
-        <img src="nectorfigma/assets/mycart" alt="Course details screen.jpg" width="200"/>
+        <img src="/assets/mycart" alt="Course details screen.jpg" width="200"/>
     </div>
     <div>
         <b>Filter</b>
-        <img src="nectorfigma/assets/filter" alt="Course details screen.jpg" width="200"/>
+        <img src="/assets/filter" alt="Course details screen.jpg" width="200"/>
     </div>
 </div>
 
