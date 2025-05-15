@@ -50,5 +50,5 @@ The total time taken to generate the code was **70 minutes**. Below is a detaile
 
 ## Upskill result
 
-This document provides detailed instructions and is part of the upskilling initiative from HuTouch.: [Review.txt](Review.txt)
+This document provides detailed instructions and is part of the upskilling initiative from HuTouch.: [review.txt](review.txt)
 ---
