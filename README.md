@@ -54,13 +54,22 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 ### Steps to Install HuTouch: 
 1. Download HuTouch App - Sign-up to get the build: [Sign-up](https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am)
 2. For MacOS:
-  2.1. Drag and drop the HuTouch files into your application folder
-  2.2. After download, open the terminal and navigate to your application folder
-  2.3. Check if HuTouch has been successfully added to the application folder
-  2.4. Execute the command: xattr -cr /Applications/HuTouch_AI.app
+   2.1 Drag and drop the HuTouch files into your application folder
+   2.2 After download, open the terminal and navigate to your application folder
+   2.3 Check if HuTouch has been successfully added to the application folder
+   2.4 Execute the command: xattr -cr /Applications/HuTouch_AI.app
 3. For WinOS:
-  3.1. Open folder and then open the EXE file
-  3.2. Let the system install HuTouch
+   3.1 Click “Install Certificate”
+   3.2 Select “Local Machine” (not Current User)
+   3.3 Click Next
+   3.4 Choose “Place all certificates in the following store”
+   3.5 Click Browse and select: Trusted People
+   3.6 Click OK, then Next, then Finish -> You’ll see: "The import was successful"
+   3.7 Now you can install the actual app. Double-click HuTouch_1.0.0.0_x64.msixbundle
+   3.8 A window will open titled “App Installer”
+   3.9 Click Install
+   3.10 Wait for installation to complete
+   3.11 The app will now be available from Start Menu (you can pin it).Open folder and then open the EXE file
 4. Once the process finishes execution, open HuTouch app and follow the setup instructions
 
 ### Setup Plugins: Required to help HuTouch interact with your code
@@ -78,6 +87,10 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 1. Select tools one at a time, like Figma, Postman, Jira, Slack that you use for coding and non-coding tasks
 2. HuTouch will display instructions for each tool
 3. Follow the instructions to provide access to HuTouch
+
+### Setup your project: To create context of code in your project
+1. Select the Figma you will be using for your new project and click the button
+2. For existing project, provide the relevant Figma and click the button 
 
 ### Accessibility access: Required to allow HuTouch hotkeys to work
 1. Read the instructions on the screen
