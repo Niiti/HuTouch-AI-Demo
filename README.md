@@ -1,14 +1,17 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
 
-#  AI coding today is unreliable 😤
+#  For developers, AI is still unreliable 😤
 
-In spite of AI's help, we still see the below issues with AI code:
+In spite of AI's help, we still see the below issues with AI code or AI assistance:
 - Loses context easily 
 - Doesn't work well with existing code
 - Doesn't have great coding standards
 - Works on small code base, so only 5-10% effort is saved
 - Requires too much vibe coding to tailor it to actual project specs
+- Assistance is not personalized
+
+Developers are looking for an end to end or a full-stack solution to help with their immense workload. 
 
 ## HuTouch 🌟 Automate manual coding, vibe coding and other boring tasks
 
