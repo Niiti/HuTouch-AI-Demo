@@ -1,20 +1,29 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
 
-#  HuTouch 🚀 Unleash your true potential
+#  AI coding today is unreliable 😤
 
-Low value tasks in your way to do meaningful work? 61% of our tasks are repetitive or not meant for our hard earned skills causing heavy workloads and burnouts.  
-Developers are still manually converting designs to code, individuals are still digging through slack, emails, Jira to find tasks, when our time are better applied on meaningful tasks, like strengthening the code or work life balance. It’s time to put a **dent in the world’s workload using HuTouch**, a personal AI that automates low value tasks. 
+In spite of AI's help, we still see the below issues with AI code:
+- Loses context easily 
+- Doesn't work well with existing code
+- Doesn't have great coding standards
+- Works on small code base, so only 5-10% effort is saved
+- Requires too much vibe coding to tailor it to actual project specs
 
-## 🌟 How does HuTouch Help
+## HuTouch 🌟 Automate manual or vibe coding and other boring tasks
 
-HuTouch for developers is an AI assistant and AI coding tool to help with the below:
-- Save >25% coding effort where HuTouch generates the 1st working screen/logic/API/defect fix tailored to your project specs
-- Generate highly reliable code (>80% reusable code) where your personalized coding standards are applied 
-- Get assistance to dig info in multiple tools to help elevate your coding skills, identify tasks, write emails, summarize code or simply review your code
-- Integrate into your daily workflow using connectivity to your tools like, IDE (VS Code/Android Studio), Figma, Motiff, Postman, Jira, Google apps, Slack, etc  
+At Niiti, we built HuTouch just to solve this and we do it without vibe coding. HuTouch can be used on your existing code or to start off a new project. 
+And then to top it, we added assistant skills. 
+This helps developers save > 25% effort daily. Here is how:
+- Automates coversion of project specs like, designs from Figma, API from Postman, functionality from requirements doc to a functional app
+- Provides large code base and also works with small code base
+- Generates highly reliable code where your personalized coding standards are used
+- Establishes context, reuses existing code to generate new code   
+- Removes chaos by digging up scattered info on task management, self review, write emails, summarize conversations
+- Integrates into your daily workflow using your tools like, IDE (VS Code/Android Studio), Figma, Motiff, Postman, Jira, Google apps, Slack, etc  
 
-Demo of HuTouch (Early version): https://youtu.be/ijHEK_wPsAA 
+HuTouch is in it's early stages and here's a demo of the same: https://youtu.be/SBJmkvqkFhY?si=-R0WomazNJeXXt6e  
+[Sign-up for early access](https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am)
 
 ## 🎯 What are customers saying?
 
@@ -22,9 +31,9 @@ Demo of HuTouch (Early version): https://youtu.be/ijHEK_wPsAA
 
 - "Easily saves time by generating code better than bringing boilerplate code together"
 
-We have over 2 decades of IT experience and understand how difficult it is for us to make time to do things that matter most and so we have dedicated our time to fix this gap with a personal AI - HuTouch (short for human touch).
+Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/EjrX7Ffe 
 
-## 📂 Projects
+## 📂 Sample Projects
 
 Below are a few projects we built using HuTouch to demonstrate how HuTouch helped
 
@@ -33,54 +42,22 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 |------------------------|---------------------------------|
 | [StreamFlix](https://github.com/Niiti/HuTouch-AI-Demo/tree/main/Streamflix)| 5 screens with 1 API @ 1.5hrs and >80% reusable code |
 | [Youtube Clone App](youtube)| 5 screens with 1 API @ 1.25hrs and >85% reusable code |
-| [Friendzy App](dating3) | 1 screen with 1 API @ 0.5hrs and >78% reusable code      |
-| [Wyntra App](wyntra)     | 3 screens @ 1.5hrs and >82% reusable code |
-| [Wafii App](WafiiApp)| 8 screens with 2 APIs @ 2.5hrs and >74% reusable code    |
-| [Coffee App Bloc](coffee_app_bloc)| 2 screens @ 0.5hrs and >92% reusable code   |
-| [Sabzi App](sabzi_app_2)| 2 screens @ 0.5hrs and >70% reusable code   |
-| [Tour App](tour_app)| 2 screens @ 0.5hrs and >70% reusable code   |
----
-
-## 📂 Features for Developers
-
-### More in just one prompt:
-- Generate code for screens from scratch 
-- Generate code for API integration
-- Add new functionalities or update existing functionalities
-- Fix errors in a file
-- Self Review code before PR process
-
-### Tailored to your specs:
-HuTouch integrates with your tools to generate reusable code tailored to your project specs.
-- UI elements directly from your Figma/Motiff
-- Coding standards across 10 different categories OR simply allow HuTouch to use coding standards from your favorite project
-- Functional requirements from web or from your documents
-- API from your Postman
-
-### Elevate coding skills everyday:
-- Personalized learning of new coding skills based on your current expertise
-- Articles/tutorials that are short
-- Learn on every project instead of on quarterly basis
-
-### Assist on non-coding tasks:
-- Task priorities of the day
-- Create tailored emails/chat messages
-- Prep for meetings
-- Summarize code
-
-Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/EjrX7Ffe 
 
 ---
 
-## HuTouch-Alpha-3 - Install & Setup
+## HuTouch - Install & Setup
 
 ### Steps to Install HuTouch: 
-1. Download HuTouch App for **MacOS** (Coming soon to Windows): [⬇️ Click here to download](https://1drv.ms/u/c/c02b815a6daf18c2/EYhmUycaH6VJgkPEMbBCTOYBQcy-r8xy-k6ca0d-A1SMnQ)
-2. Drag and drop the HuTouch files into your application folder
-3. After download, open the terminal and navigate to your application folder
-4. Check if HuTouch has been successfully added to the application folder
-5. Execute the command: xattr -cr /Applications/HuTouch_AI.app
-6. Once the command finishes execution, open HuTouch app and follow the setup instructions
+1. Download HuTouch App - Sign-up to get the build: [Sign-up](https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am)
+2. For MacOS:
+  2.1. Drag and drop the HuTouch files into your application folder
+  2.2. After download, open the terminal and navigate to your application folder
+  2.3. Check if HuTouch has been successfully added to the application folder
+  2.4. Execute the command: xattr -cr /Applications/HuTouch_AI.app
+3. For WinOS:
+  3.1. Open folder and then open the EXE file
+  3.2. Let the system install HuTouch
+4. Once the process finishes execution, open HuTouch app and follow the setup instructions
 
 ### Setup Plugins: Required to help HuTouch interact with your code
 1. Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
@@ -105,7 +82,7 @@ Hop on to our discord server to learn more or discuss about HuTouch or just shar
 
 ---
 
-## HuTouch-Alpha-3 - How to use (also available on HuTouch Home Screen)
+## HuTouch - How to use (also available on HuTouch Home Screen)
 
 ### Generate code for screens from scratch/large code base:
 1. Open the Figma file that you will need to use and if possible keep your IDE open in the background
