@@ -35,7 +35,7 @@ HuTouch is in it's early stage and is currently built only for Flutter mobile ap
 
 - "Easily saves time by generating code better than bringing boilerplate code together"
 
-Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/EjrX7Ffe 
+Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/HJ376nkdwu 
 
 ## 📂 Sample Projects
 
