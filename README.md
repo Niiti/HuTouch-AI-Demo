@@ -9,7 +9,7 @@ In spite of AI's help, we still see the below issues with AI code or AI assistan
 - Doesn't have great coding standards
 - Works on small code base, so only 5-10% effort is saved
 - Requires too much vibe coding to tailor it to actual project specs
-- Assistance is not personalized
+- Assistance for daily tasks is not personalized
 
 Developers are looking for an end to end or a full-stack solution to help with their immense workload. 
 
