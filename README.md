@@ -54,11 +54,11 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 ### Steps to Install HuTouch: 
 1. Download HuTouch App - Sign-up to get the build: [Sign-up](https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am)
 2. For MacOS:
-   2.1 Drag and drop the HuTouch files into your application folder
+2.1 Drag and drop the HuTouch files into your application folder
    2.2 After download, open the terminal and navigate to your application folder
    2.3 Check if HuTouch has been successfully added to the application folder
    2.4 Execute the command: xattr -cr /Applications/HuTouch_AI.app
-3. For WinOS:
+4. For WinOS:
    3.1 Click “Install Certificate”
    3.2 Select “Local Machine” (not Current User)
    3.3 Click Next
@@ -70,7 +70,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
    3.9 Click Install
    3.10 Wait for installation to complete
    3.11 The app will now be available from Start Menu (you can pin it).Open folder and then open the EXE file
-4. Once the process finishes execution, open HuTouch app and follow the setup instructions
+5. Once the process finishes execution, open HuTouch app and follow the setup instructions
 
 ### Setup Plugins: Required to help HuTouch interact with your code
 1. Setup plugins for IDE: Select the IDE you use and click on the button "Add VS Code extension" or "Add Android Studio extension"
