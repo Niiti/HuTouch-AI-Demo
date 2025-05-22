@@ -12,7 +12,7 @@ In spite of AI's help, we still see the below issues with AI code:
 
 ## HuTouch 🌟 Automate manual or vibe coding and other boring tasks
 
-At Niiti, we built HuTouch just to solve this and we do it without vibe coding. HuTouch can be used on your existing code or to start off a new project. 
+At Niiti, we built HuTouch that solves this without vibe coding, and can be used on your existing code or to start off a new project. 
 And then to top it, we added assistant skills. 
 This helps developers save > 25% effort daily. Here is how:
 - Automates coversion of project specs like, designs from Figma, API from Postman, functionality from requirements doc to a functional app
@@ -22,7 +22,7 @@ This helps developers save > 25% effort daily. Here is how:
 - Removes chaos by digging up scattered info on task management, self review, write emails, summarize conversations
 - Integrates into your daily workflow using your tools like, IDE (VS Code/Android Studio), Figma, Motiff, Postman, Jira, Google apps, Slack, etc  
 
-We solved it with personalization and automation of all the boring set of coding/non-coding tasks. Our vision is to help developers put a dent in their workload so that they can #DoWhatMatters most.  
+Our vision is to provide a personal AI to developers to solve for coding, and to help developers put a dent in their workload so that they can #DoWhatMatters most.  
 
 HuTouch is in it's early stages and here's a demo of the same: https://youtu.be/SBJmkvqkFhY?si=-R0WomazNJeXXt6e
 
