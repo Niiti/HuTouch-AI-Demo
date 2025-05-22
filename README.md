@@ -10,7 +10,7 @@ In spite of AI's help, we still see the below issues with AI code:
 - Works on small code base, so only 5-10% effort is saved
 - Requires too much vibe coding to tailor it to actual project specs
 
-## HuTouch 🌟 Automate manual or vibe coding and other boring tasks
+## HuTouch 🌟 Automate manual coding, vibe coding and other boring tasks
 
 At Niiti, we built HuTouch that solves this without vibe coding, and can be used on your existing code or to start off a new project. 
 And then to top it, we added assistant skills. 
