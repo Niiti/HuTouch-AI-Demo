@@ -29,13 +29,13 @@ Our vision is to help developers put a dent in their workload so that they can #
 
 HuTouch is in it's early stage and is currently built only for Flutter mobile apps: https://youtu.be/ijHEK_wPsAA?si=iAOoP0DpnVDiqwfW 
 
-## 🎯 What are customers saying?
+## 🎯 What are Developers saying?
 
-- "Generated code is so much reusable and it does it in just one prompt"
+- “A few mins wait was worth to see HuTouch save 60% effort in boilerplate coding” – Atliq Technologies​
 
-- "Easily saves time by generating code better than bringing boilerplate code together"
+- "70-80% of my boring coding tasks are automated" - Champhunt (Techstars 24)
 
-Hop on to our discord server to learn more or discuss about HuTouch or just share your stories: https://discord.gg/HJ376nkdwu 
+Hop on to our discord server to provide feedback or just share your stories/apps: https://discord.gg/HJ376nkdwu 
 
 ## 📂 Sample Projects
 
