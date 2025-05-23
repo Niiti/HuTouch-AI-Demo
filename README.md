@@ -27,7 +27,7 @@ This helps developers save > 25% effort daily. Here is how:
 
 Our vision is to help developers put a dent in their workload so that they can #DoWhatMatters most. [💎Sign-up for early access](https://share.hsforms.com/1zMNWuJJnQYWjq_SWLnUptweb6am) 
 
-HuTouch is in it's early stage and is currently built only for Flutter mobile apps: https://youtu.be/SBJmkvqkFhY?si=-R0WomazNJeXXt6e
+HuTouch is in it's early stage and is currently built only for Flutter mobile apps: https://youtu.be/ijHEK_wPsAA?si=iAOoP0DpnVDiqwfW 
 
 ## 🎯 What are customers saying?
 
