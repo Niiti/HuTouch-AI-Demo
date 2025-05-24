@@ -3,8 +3,8 @@
 
 #  For developers, AI is still unreliable 😤
 
-In spite of AI's help, we still spend 40% of our effort in boring coding and non- coding tasks. Places where our hard earned skills are being wasted:
-- Manual effort to create a PRD, or vibe coding
+In spite of AI's help, we still spend 40% of our effort in boring coding and non-coding tasks. Places where our hard earned skills are being wasted are:
+- Boilerplate coding based on project specs, or effort to create PRD, or vibe coding
 - Fix code generated to have proper coding standards and clean code
 - Stress out on changes to code that already works on existing app
 - Dig up task info from different tools to identify tasks, write status emails, document daily log
