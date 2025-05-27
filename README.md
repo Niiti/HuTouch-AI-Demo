@@ -88,6 +88,7 @@ Below are a few projects we built using HuTouch to demonstrate how HuTouch helpe
 3. Follow the instructions to provide access to HuTouch
 
 ### Setup your project: To create context of code in your project
+Step by step recording for this setup: https://drive.google.com/file/d/12igYgCVue3RLGr614zsHxP5udXNWaLTA/view?usp=drivesdk
 1. Select the Figma you will be using for your new project and click the button
 2. For existing project, provide the relevant Figma and click the button 
 
