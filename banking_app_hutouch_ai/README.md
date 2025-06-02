@@ -10,7 +10,7 @@ The total time taken to create production ready screens is **5.5hrs**. Below is 
 | **Efforts**            | **Time Spent** |
 |------------------------|----------------|
 |      Manual Coding, using project specs from Figma, requirements doc and Postman         | 22 hrs        |
-| Automation of tasks using HuTouch to code             | 5.5 hrs        |
+| Automation of tasks using HuTouch to code (Convert project specs to fucntional prototype + review of code + minor changes to code)             | 5.5 hrs        |
 | **Time Saved**              |**16.5 hrs**|
 
 By using HuTouch, I saved **75%** of my time on building this app.
