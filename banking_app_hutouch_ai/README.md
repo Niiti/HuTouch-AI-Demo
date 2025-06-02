@@ -5,17 +5,17 @@
 
 ## Time Breakdown
 
-The total time taken to generate the project was **2 hr 48 mins**. Below is a detailed breakdown of the time spent on each feature:
+The total time taken to create production ready screens is **5.5hrs**. Below is a detailed breakdown of the time spent on each feature:
 
 | **Efforts**            | **Time Spent** |
 |------------------------|----------------|
-|      Manual Coding        | 22 hrs        |
-| With HuTouch             | 2.8 hrs        |
-| **Time Saved**              |**19 hr 12 mins**|
+|      Manual Coding, using project specs from Figma, requirements doc and Postman         | 22 hrs        |
+| Automation of tasks using HuTouch to code             | 5.5 hrs        |
+| **Time Saved**              |**16.5 hrs**|
 
-By using HuTouch, I saved **87.27%** of my time on building this app.
+By using HuTouch, I saved **75%** of my time on building this app.
 
-## Coding Practices
+## Coding Standards used for the app
 *Below are the coding practices I followed while developing this project.*
 
 **Architecture**
