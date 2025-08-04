@@ -1,0 +1,18 @@
+API Integration Report
+
+• The base URL used for the API requests is:
+👉 https://6803759d-2bfb-4aa4-8ab1-ddc2ace685e8.mock.pstmn.io/
+
+• The specific endpoint being called is:
+👉 https://6803759d-2bfb-4aa4-8ab1-ddc2ace685e8.mock.pstmn.io/get_societies
+This endpoint is responsible for fetching a list of societies.
+
+• The expected response from this API call is a JSON array with each society object having the following structure:
+– id (integer)
+– society (string)
+
+Recommendations
+
+• Ensure the API endpoint is reachable from the environment where it will be used.
+• Implement error handling or retry mechanisms for potential network failures.
+• Validate the API response against the expected JSON schema to maintain consistency in data.
