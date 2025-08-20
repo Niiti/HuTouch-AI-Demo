@@ -1,27 +1,27 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/user/repo/actions)
 
 
-#  Figma to Production Ready Flutter Code 
+## Figma to Production Ready Flutter Code 
 
-# Problem:
+## Problem:
 - AI coding tools require guidance to generate Flutter code
 - No connections to Figma, Postman, IDE and Functional requirements doc to extract project specs
 
-# Solution: 
+## Solution: 
 - Automate boilerplate & prototyping using AI
 - Automatically generate strong Flutter AI code with state management, strong architecture and coding standards
 - Integrate with Figma, Postman, IDE and Functional requirements doc to extract project specs
 
-We at Niiti, built HuTouch to help Flutter developers convert Figma to Production ready code without vibe coding.
+We at Niiti, built HuTouch to help Flutter developers convert Figma to Production ready code **without vibe coding**.
 Here's a demo: https://youtu.be/_HxUlad6Kd0
 
-# Early Access to HuTouch: 
+## Early Access to HuTouch: 
 - MacOS: [Download for Intel](https://drive.google.com/file/d/19HqdIAvYi8AOXUrHBgH8SxZT6dYMwf2I/view?usp=sharing) or [Download for M](https://drive.google.com/file/d/15xJISggO-cUeID3PaZ_syta4d9m3C5IB/view?usp=sharing )
-- Windows:[Download](https://drive.google.com/file/d/1qPv1ZaSzdN6QVYgMdMhX3vDi3X2GFKjh/view?usp=drive_link)
+- Windows: [Download](https://drive.google.com/file/d/1qPv1ZaSzdN6QVYgMdMhX3vDi3X2GFKjh/view?usp=drive_link)
 - Comes with a 2 weeks free premium access (a $30 value)  
 
-## FLUTTER TASKS REINVENTED
-We didn't stop there, we reinvented how Flutter developers work for good, so that developers can do what matters most: Code & Create Value everyday.
+# FLUTTER TASKS REINVENTED
+We didn't stop there, we reinvented how Flutter developers work for good, so that developers can do what matters most: **Code & Create Value everyday**
 
 ## Problem:
 About 61% of a Flutter tasks keep developers away from doing meaningful work. Developers are looking for help with their repetitive/boring parts of coding like prototyping/boilerplate coding and to manage their daily chaos. Instead we get unreliable solutions in AI that only speed the process by 5-10%.  
@@ -38,7 +38,7 @@ Daily Chaos:
 
 At Niiti, we believe that the human perspective is not being applied to the real problem. We believe the narrative should be flipped, we should solve the workload problem using AI not bring in new workflows because of AI. So with HuTouch (short for Human Touch) we automated the boring and created assistance for daily chaos.  
 
-## 🎯 What are Developers saying?
+## What are Developers saying?
 - Saved >40% effort in converting Figma to production ready code
 - Flutter code generated has the best reliability over Cursor/Copilot/Dhiwise with state management, strong architecture and coding standards
 - A 3 months project can be completed in <2 months 
