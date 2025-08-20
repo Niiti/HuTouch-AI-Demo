@@ -59,4 +59,4 @@ Build production ready code for Frontend **in days not months**:
 - Status email ([Demo](https://youtu.be/37Pa_f8L2CE)): Once your tools like Slack, Jira, Gmail/Outlook are connected with HuTouch, ask HuTouch to formulate your status email using data from your tools
 - Continious Learning ([Demo](https://youtu.be/uhW3k444gB0)): Allow HuTouch to recommend personalized & short articles/tutorials that help elevate your skills weekly
 
-**We are at the cusp of a new age, come shape HuTouch with us to change the way we work so that we do what matters most**
+**Come shape HuTouch with us to change the way we work so that we do what matters most**
