@@ -45,7 +45,6 @@ Build unlimited production ready code for Frontend **in days not months**:
 - Early access to new features
 
 <kbd>[[**SIGN-UP**](https://share.hsforms.com/1u8TI8HajTpy8a2xNt2zwzQeb6am)]</kbd>
-[![**SIGN-UP**]][https://share.hsforms.com/1u8TI8HajTpy8a2xNt2zwzQeb6am]
 
 # FLUTTER TASKS REINVENTED (Coming Soon...)
 We won't stop there, we are reinventing how Flutter developers work for good. 
