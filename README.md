@@ -4,7 +4,7 @@
 ## Figma to Production Ready Flutter Code 
 
 ## Problem:
-- AI coding tools require guidance to generate Flutter code
+- AI coding tools require guidance to generate strong Flutter code
 - No connections to Figma, Postman, IDE and Functional requirements doc to extract project specs
 
 ## Solution: 
