@@ -20,16 +20,24 @@ Here's a demo: https://youtu.be/_HxUlad6Kd0
 ## What are Developers saying?
 - Saved >40% effort in converting Figma to production ready code
 - Flutter code generated has the best reliability over Cursor/Copilot/Dhiwise with state management, strong architecture and coding standards
-- A 3 months project can be completed in <2 months 
+- A 3 months project can be completed in <2 months
+- Love Blueprints & the community around it  
 
 ## Benefits & Features you get with HuTouch @ $30/month:
 
 Build unlimited production ready code for Frontend **in days not months**:
 - Convert Figma to Prototypes ([Demo](https://youtu.be/_HxUlad6Kd0)):
--   Once your Figma, IDE is connected to HuTouch, just follow the instructions, select the Blueprint you like or edit to your specifications, provide functional requirements and look for highly reliable code for the entire UI in a few mins
-- Modify code ([Demo](https://youtu.be/StyTP0loQ-k)): Edit a logic in your code to match expected behavior for your screens
-- API Integration ([Demo](https://youtu.be/7Yl2go3JCZA)): Once your Postman is connected to HuTouch or you upload 3rd Party API specs, just follow the instructions to integrate your APIs 
-- Bug Fixes using Modify Code option ([Demo](https://youtu.be/sVhtIbnsKlI))
+  - Benefit: Highly reliable code for the entire UI in just a few mins 
+  - Feature: Once your Figma, IDE is connected to HuTouch, just follow the instructions, select the Blueprint you like or edit to your specifications, provide functional requirements, and once HuTouch generates code, click REVIEW button to have the generated code added to your project in IDE.
+- Modify code ([Demo](https://youtu.be/StyTP0loQ-k)):
+  - Benefit: No impact to stability of existing code
+  - Feature: Click Modify code, select your choice and provide a simple prompt. HuTouch will utilize your project details, coding standards of the project, reusable code and then generate code to maintain context and reusability 
+- API Integration ([Demo](https://youtu.be/7Yl2go3JCZA)):
+  - Benefit: Automatically extracts API specs and creates integration
+  - Feature: Once your Postman is connected to HuTouch or you upload 3rd Party API specs, just follow the instructions to integrate your APIs
+- Blueprints:
+  - Benefit: Showcase your coding DNA to HuTouch community
+  - Feature: Is part of coding tasks within HuTouch, use pre-built Blueprints that meet your project demands, or edit anyone to build your own, and HuTouch will use it to generate highly reliable code. You can also publish your Blueprint to help others in HuTouch community to use it for their projects.  
 
 ## Sign-up for Early Access (offer ends Sep 30th, 2025): 
 - Get 1 month free
@@ -46,4 +54,4 @@ In addition to the repetitive/boring parts of coding, tasks outside coding keep 
 
 At Niiti, we believe that the human perspective is not being applied to the real problem. We believe the narrative should be flipped, we should solve the workload problem using AI not bring in new workflows because of AI. So with HuTouch (short for Human Touch) we are automating the boring and assisting in daily chaos.  
 
-**Come shape HuTouch with us to change the way we work so that we do what matters most**
+**Come be part of the change so that you do what matters most**
