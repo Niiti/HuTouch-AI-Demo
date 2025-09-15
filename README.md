@@ -39,7 +39,7 @@ Build unlimited production ready code for Frontend **in days not months**:
   - Benefit: Showcase your coding DNA to HuTouch community
   - Feature: Is part of coding tasks within HuTouch, use pre-built Blueprints that meet your project demands, or edit anyone to build your own, and HuTouch will use it to generate highly reliable code. You can also publish your Blueprint to help others in HuTouch community to use it for their projects.  
 
-## Sign-up for Early Access (offer ends Sep 30th, 2025): 
+## [Sign-up for Early Access](https://share.hsforms.com/1u8TI8HajTpy8a2xNt2zwzQeb6am) (offer ends Sep 30th, 2025): 
 - Get 1 month free
 - 50% off for 2 months (i.e., $15/month)
 - Early access to new features  
@@ -54,4 +54,4 @@ In addition to the repetitive/boring parts of coding, tasks outside coding keep 
 
 At Niiti, we believe that the human perspective is not being applied to the real problem. We believe the narrative should be flipped, we should solve the workload problem using AI not bring in new workflows because of AI. So with HuTouch (short for Human Touch) we are automating the boring and assisting in daily chaos.  
 
-**Come be part of the change so that you do what matters most**
+**COME BE PART OF THE CHANGE SO THAT YOU DO WHAT MATTERS MOST**
